@@ -56,7 +56,7 @@ education:
     date_start: 2014-02-01
     date_end: 2017-09-30
     summary: |
-      Thesis on _Spectral Shape Analysis of the Human Cerebral Cortex Complexity_. Supervised by [Dr. Olivier Coulon; Dr. Julien Lefèvre; Dr. Frédéric Richard](https://example.com). Presented my work at MICCAI conference with the contributions being published in 2 IEEE journals.
+      Thesis on _Spectral Shape Analysis of the Human Cerebral Cortex Complexity_. Supervised by [Dr. Olivier Coulon; Dr. Julien Lefèvre](https://meca-brain.org/) and [Dr. Frédéric Richard](https://fjprichard.netlify.app/). Presented my work at MICCAI 2015 conference with the contributions being published in 2 IEEE journals.
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-01881352'
