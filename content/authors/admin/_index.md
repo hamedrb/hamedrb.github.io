@@ -105,7 +105,7 @@ work:
     company_url: https://www.neurochlore.fr/
     company_logo: ''
     date_start: 2018-03-01
-    date_end: 2021-11-31
+    date_end: 2021-11-30
     summary: |
       Responsibilities include:
       - Translating business requirements into technical solutions and vice versa
@@ -124,7 +124,7 @@ work:
       - Contribution in research conception and implementation
       - Writing papers for scientific journals
       - Teaching Engineering Mathematics course to undergraduates
-      
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
