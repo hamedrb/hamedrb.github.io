@@ -47,11 +47,11 @@ profiles:
 interests:
   - Artificial Intelligence
   - Computational Medicine
-  - (Bio)Medical image analysis
-  - Clinical data analysis
+  - (Bio)Medical Image Analysis
+  - Clinical Data Analysis
 
 education:
-  - area: PhD Applied Mathematics
+  - area: PhD Applied Mathematics, Medical Image Analysis
     institution: Aix-Marseille University
     date_start: 2014
     date_end: 2017
@@ -59,59 +59,77 @@ education:
       Thesis on _Spectral Shape Analysis of the Human Cerebral Cortex Complexity_. Supervised by [Dr. Olivier Coulon; Dr. Julien Lefèvre; Dr. Frédéric Richard](https://example.com). Presented my work at MICCAI conference with the contributions being published in 2 IEEE journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://theses.hal.science/tel-01881352'
+  - area: MS Applied Mathematics, Numerical Analysis
+    institution: Iran University of Science and Technology
+    date_start: 2007
+    date_end: 2009
     summary: |
-      GPA: 3.8/4.0
-
+      GPA: 17.34/20
+      Project on _Finite Element Method for Partial Differential Equations_
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Numerical Methods in Linear Algebra
+      - Numerical Methods for Partial differential equations
+      - Advanced Numerical and Real Analysis
+  - area: BSc Applied Mathematics
+    institution: Shahrood University of Technology
+    date_start: 2002
+    date_end: 2006
     summary: |
-      GPA: 3.4/4.0
+      GPA: 15.73/20
+      Courses included:
+      - Calculus
+      - Linear Algebra
+      - Numerical Analysis
+      - Operational Research and Optimization
+      - Computer Programming
+      - Data Structures
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Data Scientist
+    company_name: B&A Biomedical
+    company_url: https://babiomedical.com/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-12-01
     date_end: ''
+    summary: |
+      Responsibilities include:
+      - Conception of Analysis Methods
+      - Deployment and Integration of Solutions
+      - Collaborating Across Teams
+      - Documentation and Reporting
+      - Staff Mentoring and Training
+      - Staying Updated with Industry Trends
+  - position: Data Scientist
+    company_name: Neurochlore
+    company_url: https://www.neurochlore.fr/
+    company_logo: ''
+    date_start: 2018-03-01
+    date_end: 2021-11-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Translating business requirements into technical solutions and vice versa
+      - Conception of Analysis Methods
+      - Deployment and Integration of Solutions
+      - Documentation and Reporting
+      - Staying Updated with Industry Trends
+  - position: Research Assistant & Instructor
+    company_name: Iran University of Science and Technology
+    company_url: https://www.iust.ac.ir/en
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+    date_start: 2011-02-01
+    date_end: 2013-08-31
+    summary: |2-
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Contribution in research conception and implementation
+      - Writing papers for scientific journals
+      - Teaching Engineering Mathematics course to undergraduates
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, C, C++, Swift
         description: ''
         percent: 80
         icon: code-bracket
@@ -119,9 +137,9 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Image Analysis Tools
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -131,22 +149,22 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Travel
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: ''
+      - name: Book
         description: ''
         percent: 80
-        icon: camera
+        icon: ''
 
 languages:
   - name: English
+    percent: 80
+  - name: French
+    percent: 80
+  - name: Persian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -182,4 +200,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a data scientist specializing in biomedical and clinical data analysis, I bring expertise in uncovering insights from complex, multi-modal datasets to advance medical research and therapeutic strategies. My work involves analyzing microscopic images of animal tissues, MR images of human tissues, and clinical data from patient records. Using a range of analytical tools, including statistical testing, machine learning, and predictive modeling, I strive to identify meaningful patterns that can detect pathologies and anticipate treatment outcomes. With a focus on translating data into actionable insights, I am dedicated to supporting precision medicine and enhancing healthcare solutions.
