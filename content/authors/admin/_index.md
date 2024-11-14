@@ -92,7 +92,7 @@ work:
     company_logo: ''
     date_start: 2021-12-01
     date_end: ''
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Conception of Analysis Methods
       - Deployment and Integration of Solutions
@@ -106,7 +106,7 @@ work:
     company_logo: ''
     date_start: 2018-03-01
     date_end: 2021-11-31
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Translating business requirements into technical solutions and vice versa
       - Conception of Analysis Methods
@@ -119,11 +119,12 @@ work:
     company_logo: ''
     date_start: 2011-02-01
     date_end: 2013-08-31
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Contribution in research conception and implementation
       - Writing papers for scientific journals
       - Teaching Engineering Mathematics course to undergraduates
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
