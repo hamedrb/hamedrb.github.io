@@ -53,8 +53,8 @@ interests:
 education:
   - area: PhD Applied Mathematics, Medical Image Analysis
     institution: Aix-Marseille University
-    date_start: 2014
-    date_end: 2017
+    date_start: 2014-02-01
+    date_end: 2017-09-30
     summary: |
       Thesis on _Spectral Shape Analysis of the Human Cerebral Cortex Complexity_. Supervised by [Dr. Olivier Coulon; Dr. Julien Lefèvre; Dr. Frédéric Richard](https://example.com). Presented my work at MICCAI conference with the contributions being published in 2 IEEE journals.
     button:
@@ -62,8 +62,8 @@ education:
       url: 'https://theses.hal.science/tel-01881352'
   - area: MS Applied Mathematics, Numerical Analysis
     institution: Iran University of Science and Technology
-    date_start: 2007
-    date_end: 2009
+    date_start: 2007-09-01
+    date_end: 2009-07-30
     summary: |
       GPA: 17.34/20
       Project on _Finite Element Method for Partial Differential Equations_
@@ -73,8 +73,8 @@ education:
       - Advanced Numerical and Real Analysis
   - area: BSc Applied Mathematics
     institution: Shahrood University of Technology
-    date_start: 2002
-    date_end: 2006
+    date_start: 2002-09-01
+    date_end: 2006-07-30
     summary: |
       GPA: 15.73/20
       Courses included:
