@@ -47,6 +47,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Computational Medicine
+  - Precision Medicine
   - (Bio)Medical Image Analysis
   - Clinical Data Analysis
 
