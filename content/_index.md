@@ -52,7 +52,7 @@ sections:
         # featured_only: true
     design:
       view: showcase
-      columns: 1
+      columns: '1'
       flip_alt_rows: true
   - block: collection
     id: featured-projects
@@ -64,7 +64,7 @@ sections:
         # featured_only: true
     design:
       view: showcase
-      columns: 1
+      columns: '1'
       # flip_alt_rows: false
   - block: collection
     id: experience
