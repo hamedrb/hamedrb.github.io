@@ -54,6 +54,17 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: experience
+    content:
+      title: Experiences
+      filters:
+        folders:
+          - experience
+        featured_only: false
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
     id: papers
     content:
       title: Featured Publications
