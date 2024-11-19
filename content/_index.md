@@ -43,7 +43,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: featuredProjects
+    id: featured_projects
     content:
       title: Featured Projects
       filters:

@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Projects
-    url: /#featuredProjects
+    url: /#featured_projects
     weight: 11
   - name: Experience
     url: /#experience
