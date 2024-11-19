@@ -49,7 +49,7 @@ sections:
       filters:
         folders:
           - project
-        featured_only: true
+        # featured_only: true
     design:
       view: showcase
       columns: 1
@@ -61,9 +61,11 @@ sections:
       filters:
         folders:
           - project
+        # featured_only: true
     design:
-      view: article-grid
+      view: showcase
       columns: 1
+      flip_alt_rows: true
   - block: collection
     id: experience
     content:
