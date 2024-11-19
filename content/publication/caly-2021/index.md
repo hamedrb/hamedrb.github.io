@@ -6,8 +6,8 @@ title: Machine learning analysis of pregnancy data enables early identification 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Hugues Caly*
-- admin*
+- Hugues Caly
+- admin
 - Perrine Coste-Mazeau
 - Sebastien Hantz
 - Sophie Alain
@@ -21,6 +21,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
+  - 'Equal contribution'
   - 'Equal contribution'
 
 date: '2021-03-01'
