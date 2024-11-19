@@ -49,7 +49,7 @@ sections:
       filters:
         folders:
           - project
-        # featured_only: true
+        featured_only: true
     design:
       view: showcase
       columns: 1
