@@ -65,7 +65,7 @@ sections:
     design:
       view: showcase
       columns: 1
-      flip_alt_rows: true
+      flip_alt_rows: false
   - block: collection
     id: experience
     content:
