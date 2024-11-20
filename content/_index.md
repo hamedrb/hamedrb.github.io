@@ -52,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: showcase
-      columns: '1'
+      columns: '2'
       flip_alt_rows: true
   - block: collection
     id: experience
