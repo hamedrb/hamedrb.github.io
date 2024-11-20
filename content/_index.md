@@ -51,8 +51,8 @@ sections:
           - project
         featured_only: true
     design:
+      columns: '1'
       view: showcase
-      columns: '2'
       flip_alt_rows: true
   - block: collection
     id: experience
