@@ -43,29 +43,17 @@ sections:
   #  design:
   #    columns: '1'
   - block: collection
-    id: featured_projects
-    content:
-      title: Featured Projects Temp
-      filters:
-        folders:
-          - project
-        # featured_only: true
-    design:
-      view: showcase
-      columns: '1'
-      flip_alt_rows: true
-  - block: collection
     id: featured-projects
     content:
       title: Featured Projects
       filters:
         folders:
           - project
-        # featured_only: true
+        featured_only: true
     design:
       view: showcase
       columns: '1'
-      # flip_alt_rows: false
+      flip_alt_rows: true
   - block: collection
     id: experience
     content:
