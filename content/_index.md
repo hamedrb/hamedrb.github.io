@@ -54,6 +54,7 @@ sections:
       view: article-grid
       columns: '1'
       flip_alt_rows: true
+      featured_height: "300px"
   - block: collection
     id: experience
     content:
