@@ -51,7 +51,7 @@ sections:
           - project
         featured_only: true
     design:
-      columns: '1'
+      columns: '2'
       view: showcase
       flip_alt_rows: true
   - block: collection
