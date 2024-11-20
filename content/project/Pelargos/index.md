@@ -1,12 +1,12 @@
 ---
-title: Pelargos: An AI Tool for Identification of ASD in Newborns
+title: 'Pelargos: An AI Tool for Identification of ASD in Newborns'
 
 summary: Blablablabla
 
 authors:
   - admin
 
-tags: ['AI', 'ML', 'ASD', 'Medicine']
+tags: []
 
 # Is this a featured project? (true/false)
 featured: true
