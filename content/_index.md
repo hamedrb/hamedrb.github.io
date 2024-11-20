@@ -51,7 +51,7 @@ sections:
           - project
         featured_only: true
     design:
-      view: showcase
+      view: article-grid
       columns: '1'
       flip_alt_rows: true
   - block: collection
