@@ -66,6 +66,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
