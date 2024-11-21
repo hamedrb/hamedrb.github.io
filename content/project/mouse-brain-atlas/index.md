@@ -25,7 +25,9 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   # focal_point: Right
 
-# links:
+links:
+- name: Paper
+  url: 'https://www.sciencedirect.com/science/article/pii/S1053811922006103?via%3Dihub'
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
