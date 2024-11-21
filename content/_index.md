@@ -54,17 +54,25 @@ sections:
       columns: '1'
       view: showcase
       flip_alt_rows: true
-  - block: collection
-    id: experience
+  # - block: collection
+  #   id: experience
+  #   content:
+  #     title: Experiences
+  #     filters:
+  #       folders:
+  #         - experience
+  #       featured_only: false
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  - block: resume-experience
     content:
-      title: Experiences
-      filters:
-        folders:
-          - experience
-        featured_only: false
+      username: admin
     design:
-      view: article-grid
-      columns: 2
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: collection
     id: papers
     content:
