@@ -10,13 +10,13 @@ design:
 
 sections:
   - block: markdown
-   content:
-     title: '🚧 NOTICE: The site is under construction 🚧'
-     subtitle: ''
-     text: |-
-       The site is under construction. I'm working on it in my free time which is not a lot. Some information might need to be corrected 😉
-   design:
-     columns: '1'
+    content:
+      title: '🚧 NOTICE: The site is under construction 🚧'
+      subtitle: ''
+      text: |-
+        The site is under construction. I'm working on it in my free time which is not a lot. Some information might need to be corrected 😉
+    design:
+      columns: '1'
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
