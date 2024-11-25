@@ -1,15 +1,17 @@
 ---
 title: 'Pelargos: An AI Tool for Identification of ASD in Newborns'
 
-date: 2024-11-20
+date: 2024-11-25
 
-summary: Blablablabla
+summary: Assessment of Autism Risk in Newborns Through Analysis of Routine Maternity Data
 
 authors:
   - admin
 
 tags:
   - AI
+  - Data mining
+  - Classification
   - ASD
   - Medicine
 
@@ -44,10 +46,13 @@ image:
 #   Otherwise, set `projects = []`.
 # projects:
 #   - example
+
+publication:
+  - caly-2021
 ---
 
 {{% callout note %}}
-The project has passed successfully the proof-of-concept phase ans is actually in phase 1.
+The project has passed successfully the proof-of-concept phase and is actually in phase 1.
 {{% /callout %}}
 
 Pelargos blablabla:
