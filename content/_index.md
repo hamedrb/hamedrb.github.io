@@ -14,7 +14,7 @@ sections:
       title: '🚧 NOTICE: The site is under construction 🚧'
       subtitle: ''
       text: |-
-        The site is under construction. I'm working on it in my free time which is not a lot. Some information might need to be corrected 😉
+        The site is a work in progress, lovingly crafted during my scarce free time. Expect some info to be wonky—updates are coming... eventually! 😉
     design:
       columns: '1'
   - block: resume-biography-3
