@@ -72,7 +72,7 @@ The project has successfully completed the proof-of-concept phase and is current
 
     This multi-faceted approach integrates advanced machine learning with conventional statistical methods to uncover potential biomarkers and developmental patterns associated with ASD.
 
-{{< figure src="pelargos-how.jpg" alt="Methods used in Pelargos." >}}
+{{< figure src="pelargos-how.png" alt="Methods used in Pelargos." >}}
 
 - **Results:**
 1) This analysis resulted in the first version of a trained classifier that is the backbone of the medical device that we are developing. Regarding our training strategy, the performance of the classifier, measured by CV technique, is given in the following table:
