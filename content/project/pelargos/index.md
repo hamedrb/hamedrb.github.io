@@ -76,20 +76,20 @@ The project has successfully completed the proof-of-concept phase and is current
 
 - **Results:**
     1) This analysis resulted in the first version of a trained classifier that is the backbone of the medical device that we are developing. Regarding our training strategy, aimed at maintaining the false positive rate below 5% while maximizing sensitivity, the performance of the classifier, measured by CV technique, is given in the following table:
-
-    TABLE
-
-    Moreover, the interpretation of the classification results by SHAP analysis revealed variables that impact the classifier's function. Clinically speaking, those variables could be considered as ASD biomarkers. Here are the most impactuf variables:
-
-    {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
+    
+        TABLE
+    
+        Moreover, the interpretation of the classification results by SHAP analysis revealed variables that impact the classifier's function. Clinically speaking, those variables could be considered as ASD biomarkers. Here are the most impactuf variables:
+    
+        {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
 
     2) Statistical hypothesis tests revealed 5 variables that are significantly different between ASD and NT groups and can be considered as ASD biomarkers.
 
-    TABLE
+        TABLE
 
     3) By analysing different fetal developmental trajectories we identified a subpopulation of ASD subjects with significantly larger HCs than age-matched NTs during the 2nd and 3rd trimesters and before birth.
 
-    {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
+        {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
 
 - **Next steps:**
 
