@@ -1,9 +1,9 @@
 ---
-title: 'Pelargos: An AI Tool for Identification of ASD in Newborns'
+title: 'Pelargos: An AI-based Medical Device for Prognosis of ASD in Newborns'
 
 date: 2024-11-25
 
-summary: Assessment of Autism Risk in Newborns Through Analysis of Routine Maternity Data
+summary: Assessment of autism risk in newborns through the analysis of maternity care data routinely collected during pregnancy follow-ups and childbirth
 
 authors:
   - admin
