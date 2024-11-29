@@ -64,7 +64,7 @@ The project has successfully completed the proof-of-concept phase and is current
 
 {{< figure src="pelargos-why.png" alt="ASD in numbers: Why Pelargos is needed?" >}}
 
-- **How:** Clinical and histological evidence suggests that Autism Spectrum Disorder (ASD) originates in utero. To investigate this hypothesis, we analyzed biological and ultrasound measurements routinely collected in maternity clinics from the first trimester of pregnancy through the first days after birth. The goal was to determine whether these data could support an early prognosis of ASD. Retrospective analysis was performed on a cohort of 63 children diagnosed with ASD at 4–5 years of age, compared to an age-matched control group of 189 neurotypical (NT) children.
+- **How:** Clinical and histological evidence suggests that ASD originates in-utero. To investigate this hypothesis, we analyzed biological and ultrasound measurements routinely collected in maternity clinics from the first trimester of pregnancy through the first days after birth. The goal was to determine whether these data could support an early prognosis of ASD. Retrospective analysis was performed on a cohort of 63 children diagnosed with ASD at 4–5 years of age, compared to an age-matched control group of 189 neurotypical (NT) children.
 
     Given the large number of variables and the complex, multivariate, and poorly understood relationships among them, we employed advanced statistical tools to identify distinguishing patterns between NT and ASD groups. A supervised machine learning (ML) algorithm, XGBoost, was trained to classify newborns into ASD and NT categories. The model was designed to maintain a false positive rate below 5% while maximizing sensitivity. To ensure the robustness and generalizability of the classifier, a cross-validation (CV) technique was employed. The variables most influential in the classifier's decisions were identified using SHAP (SHapley Additive exPlanations) analysis.
 
@@ -72,24 +72,24 @@ The project has successfully completed the proof-of-concept phase and is current
 
     This multi-faceted approach integrates advanced machine learning with conventional statistical methods to uncover potential biomarkers and developmental patterns associated with ASD.
 
-{{< figure src="pelargos-how.png" alt="Methods used in Pelargos." >}}
+    {{< figure src="pelargos-how.png" alt="Methods used in Pelargos." >}}
 
 - **Results:**
-1) This analysis resulted in the first version of a trained classifier that is the backbone of the medical device that we are developing. Regarding our training strategy, the performance of the classifier, measured by CV technique, is given in the following table:
+    1) This analysis resulted in the first version of a trained classifier that is the backbone of the medical device that we are developing. Regarding our training strategy, aimed at maintaining the false positive rate below 5% while maximizing sensitivity, the performance of the classifier, measured by CV technique, is given in the following table:
 
-TABLE
+    TABLE
 
-Moreover, the interpretation of the classification results by SHAP analysis revealed variables that impact the classifier's function. Clinically speaking, those variables could be considered as ASD biomarkers. Here are the most impactuf variables:
+    Moreover, the interpretation of the classification results by SHAP analysis revealed variables that impact the classifier's function. Clinically speaking, those variables could be considered as ASD biomarkers. Here are the most impactuf variables:
 
-{{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
+    {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
 
-2) Statistical hypothesis tests revealed 5 variables that are significantly different between ASD and NT groups and can be considered as ASD biomarkers.
+    2) Statistical hypothesis tests revealed 5 variables that are significantly different between ASD and NT groups and can be considered as ASD biomarkers.
 
-TABLE
+    TABLE
 
-3) By analysing different fetal developmental trajectories we identified a subpopulation of ASD subjects with significantly larger HCs than age-matched NTs during the 2nd and 3rd trimesters and before birth.
+    3) By analysing different fetal developmental trajectories we identified a subpopulation of ASD subjects with significantly larger HCs than age-matched NTs during the 2nd and 3rd trimesters and before birth.
 
-{{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
+    {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
 
 - **Next steps:**
 
