@@ -92,7 +92,7 @@ The project has successfully completed the proof-of-concept phase and is current
         Each row represents a variable, with a point colored according to its corresponding value for each subject. The color map illustrates how the impact of each variable varies with its values. Values on the positive (orange) or negative (green) side of the SHAP distribution correspond to classifications of ASD or NT, respectively. The following table presents the variables, along with the value ranges that drive the classifier toward an ASD diagnosis.
 
         | Variable        | Relative impact                     | Critical Value Range for ASD Classification   |
-        | :-------------- | :---------------------------------- | :-------------------------------------------: |
+        | :-------------- | :----------------------------------: | :------------------------------------------- |
         | Timing of fetal rotation on head | 44% | Earlier than 148 days of gestational age |
         | white blood cell count in the third trimester  | 16% | Less than 9100  |
         | Femur length percentile in the third trimester | 13% | Higher than 72%  |
