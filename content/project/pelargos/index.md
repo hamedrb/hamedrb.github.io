@@ -75,9 +75,14 @@ The project has successfully completed the proof-of-concept phase and is current
     {{< figure src="pelargos-how.png" alt="Methods used in Pelargos." >}}
 
 - **Results:**
-    1) This analysis resulted in the first version of a trained classifier that is the backbone of the medical device that we are developing. Regarding our training strategy, aimed at maintaining the false positive rate below 5% while maximizing sensitivity, the performance of the classifier, measured by CV technique, is given in the following table:
+    1) **Trained ASD classifier:**
+        The primary outcome of the project is a trained classifier, which serves as the core component of the Pelargos medical device. Regarding our training strategy, aimed at maintaining the false positive rate below 5% while maximizing sensitivity, the performance of the classifier, measured by a CV technique, is summerized in the table below:
     
-        TABLE
+        | Score        | Description                     | Value   |
+        | :----------- | :------------------------------ | :-----: |
+        | Specificity  | Ability to correctly identify neurotypical cases (true negatives) | 96%±1%  |
+        | Sensitivity  | Ability to correctly identify ASD cases (true positives) | 41%±4%  |
+        | PPV          | Proportion of positive results that are true positives (precision) | 7%±5%  |
     
         Moreover, the interpretation of the classification results by SHAP analysis revealed variables that impact the classifier's function. Clinically speaking, those variables could be considered as ASD biomarkers. Here are the most impactuf variables:
     
