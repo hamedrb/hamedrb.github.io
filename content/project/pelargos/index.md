@@ -58,11 +58,11 @@ The project has successfully completed the proof-of-concept phase and is current
 
 - **What:** Pelargos project, powered by artificial intelligence, has two key goals: developing a cutting-edge medical device for the early prognosis of Autism Spectrum Disorders (ASD) in newborns and identifying new ASD biomarkers. By leveraging data routinely collected during pregnancy follow-ups, childbirth, and the first days of life, the device aims to enable timely interventions, improving outcomes for children at risk. Simultaneously, the identification of biomarkers will open new research pathways, shedding light on the unknown underlying mechanisms and early indicators of ASD, fostering innovation in both clinical and scientific fields.
 
-{{< figure src="pelargos-what.png" alt="What is Pelargos project?" >}}
+{{< figure src="pelargos-what.png" alt="Figure: What is the Pelargos project?" >}}
 
 - **Why:** Autism Spectrum Disorder (ASD), characterized by persistent deficits in communication and social interactions, along with restricted and repetitive behaviors, affects approximately 67 million individuals worldwide. The global prevalence of ASD is estimated to be around 2% and is steadily increasing. In the absence of an approved pharmacological treatment, symptom management relies on compensatory behavioral therapies, such as TEACCH and ABA, which are most effective when started early—during the peak of brain plasticity, before 2–3 years of age. Unfortunately, the current average age of diagnosis for these complex and heterogeneous disorders remains between 4 and 5 years, preventing timely interventions at the most critical developmental period. Early identification of children with ASD thus remains a significant global public health challenge.
 
-{{< figure src="pelargos-why.png" alt="ASD in numbers: Why Pelargos is needed?" >}}
+{{< figure src="pelargos-why.png" alt="Figure: ASD in numbers--Why Pelargos is needed?" >}}
 
 - **How:** Clinical and histological evidence suggests that ASD originates in-utero. To investigate this hypothesis, we analyzed biological and ultrasound measurements routinely collected in maternity clinics from the first trimester of pregnancy through the first days after birth. The goal was to determine whether these data could support an early prognosis of ASD. Retrospective analysis was performed on a cohort of 63 children diagnosed with ASD at 4–5 years of age, compared to an age-matched control group of 189 neurotypical (NT) children.
 
@@ -72,7 +72,7 @@ The project has successfully completed the proof-of-concept phase and is current
 
     This multi-faceted approach integrates advanced machine learning with conventional statistical methods to uncover potential biomarkers and developmental patterns associated with ASD.
 
-    {{< figure src="pelargos-how.png" alt="Methods used in Pelargos." >}}
+    {{< figure src="pelargos-how.png" alt="Figure: Methods used in Pelargos" >}}
 
 - **Results:**
     1) **Trained ASD classifier:**
@@ -84,9 +84,20 @@ The project has successfully completed the proof-of-concept phase and is current
         | Sensitivity  | Ability to correctly identify ASD cases (true positives) | 41%±4%  |
         | PPV          | Proportion of positive results that are true positives (precision) | 7%±5%  |
     
-        Moreover, the interpretation of the classification results by SHAP analysis revealed variables that impact the classifier's function. Clinically speaking, those variables could be considered as ASD biomarkers. Here are the most impactuf variables:
+        **Interpretation of the classifier's output:**
+        The SHAP analysis provided valuable insights into the classification results, identifying variables that significantly influence the classifier's performance. From a clinical perspective, these variables hold potential as biomarkers for ASD. Below are the 5 most impactful variables:
     
-        {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
+        {{< figure src="Pelargos-results-shap.png" alt="Figure: SHAP analysis" >}}
+
+        Each row represents a variable, with a point colored according to its corresponding value for each subject. The color map illustrates how the impact of each variable varies with its values. Values on the positive (orange) or negative (green) side of the SHAP distribution correspond to classifications of ASD or NT, respectively. The following table presents the variables, along with the value ranges that drive the classifier toward an ASD diagnosis.
+
+        | Variable        | Relative impact                     | Critical Value Range for ASD Classification   |
+        | :-------------- | :---------------------------------- | :-------------------------------------------: |
+        | Timing of fetal rotation on head | 44% | Earlier than 148 days of gestational age |
+        | white blood cell count in the third trimester  | 16% | Less than 9100  |
+        | Femur length percentile in the third trimester | 13% | Higher than 72%  |
+        | Sex | 9% | Male |
+        | Newborn feeding | 5% | Mixed (breastfeeding and artificial) |
 
     2) Statistical hypothesis tests revealed 5 variables that are significantly different between ASD and NT groups and can be considered as ASD biomarkers.
 
