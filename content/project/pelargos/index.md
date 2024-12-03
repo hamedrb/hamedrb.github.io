@@ -105,13 +105,13 @@ The project has successfully completed the proof-of-concept phase and is current
 
        Statistical details are presented in the following table:
 
-       |              |          Grouping           ||
-       |First Header  | Second Header | Third Header |
-       |------------  | :-----------: | -----------: |
-       |Content       |          *Long Cell*        ||
-       |Content       |   **Cell**    |         Cell |
-       |New section   |     More      |         Data |
-       |And more      | With an escaped '\|'         ||  
+       |              |          Statistics          |||
+       |Variable      | NT group      | ASD group    | Test results |
+       |:------------ | :-----------  | :----------- | :----------- |
+       |**Sex**       |               |              ||
+       |Male % (n)       |  46.68 (92)   |  80.95 (51) ||
+       |Female % (n)   |     51.32 (97)      |  19.05 (12)  ||
+       |**Absolute child’s temperature difference day 1 – birth**      |||| 
 
     3) By analysing different fetal developmental trajectories we identified a subpopulation of ASD subjects with significantly larger HCs than age-matched NTs during the 2nd and 3rd trimesters and before birth.
 
