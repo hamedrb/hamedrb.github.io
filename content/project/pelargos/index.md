@@ -99,9 +99,9 @@ The project has successfully completed the proof-of-concept phase and is current
         | Sex | 9% | Male |
         | Newborn feeding | 5% | Mixed (breastfeeding and artificial) |
 
-    2) Statistical hypothesis tests revealed 5 variables that are significantly different between ASD and NT groups and can be considered as ASD biomarkers.
+    2) Statistical hypothesis testing identified 5 variables with significant differences between the ASD and NT groups, suggesting their potential as biomarkers for ASD.
 
-        TABLE
+       {{< figure src="Pelargos-stat-test.png" alt="Figure: Statistical hypothesis test analysis results" >}} 
 
     3) By analysing different fetal developmental trajectories we identified a subpopulation of ASD subjects with significantly larger HCs than age-matched NTs during the 2nd and 3rd trimesters and before birth.
 
