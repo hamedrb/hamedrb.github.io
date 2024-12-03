@@ -103,6 +103,17 @@ The project has successfully completed the proof-of-concept phase and is current
 
        {{< figure src="Pelargos-stat-test.png" alt="Figure: Statistical hypothesis test analysis results" >}} 
 
+       Statistical details are presented in the following table:
+
+       |             |          Grouping           ||
+      First Header  | Second Header | Third Header |
+      ------------ | :-----------: | -----------: |
+      Content       |          *Long Cell*        ||
+      Content       |   **Cell**    |         Cell |
+
+      New section   |     More      |         Data |
+      And more      | With an escaped '\|'         ||  
+
     3) By analysing different fetal developmental trajectories we identified a subpopulation of ASD subjects with significantly larger HCs than age-matched NTs during the 2nd and 3rd trimesters and before birth.
 
         {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
