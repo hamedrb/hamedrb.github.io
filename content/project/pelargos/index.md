@@ -105,42 +105,21 @@ The project has successfully completed the proof-of-concept phase and is current
 
        Statistical details are presented in the following table:
 
-      <table>
-        <thead>
-          <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-          </tr>
-          <tr>
-            <td>L3 Name B</td>
-          </tr>
-          <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-          </tr>
-          <tr>
-            <td>L3 Name D</td>
-          </tr>
-        </tbody>
-      </table>
-
-
-
-       |              |          Statistics          |||
-       |:------------ | :-----------  | :----------- | :----------- |
-       |**Variable**      | **NT group**      | **ASD group**    | **Test results** |
-       |**Sex**       |               |              ||
-       |Male % (n)       |  46.68 (92)   |  80.95 (51) ||
-       |Female % (n)   |     51.32 (97)      |  19.05 (12)  ||
-       |**Absolute child’s temperature difference day 1 – birth**      |||| 
+<table>
+  <tr>
+    <th colspan="2">Merged Header</th>
+    <th>Column 3</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Merged Row</td>
+    <td>Value 1</td>
+    <td>Value 2</td>
+  </tr>
+  <tr>
+    <td>Value 3</td>
+    <td>Value 4</td>
+  </tr>
+</table>
 
     3) By analysing different fetal developmental trajectories we identified a subpopulation of ASD subjects with significantly larger HCs than age-matched NTs during the 2nd and 3rd trimesters and before birth.
 
