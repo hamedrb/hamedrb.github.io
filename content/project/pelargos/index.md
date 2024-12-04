@@ -105,11 +105,11 @@ The project has successfully completed the proof-of-concept phase and is current
 
        The statistical details are summarized in the table below.
 
-       {{< figure src="Pelargos-stat-test-table.png" alt="Figure: Statistical hypothesis test analysis results" >}} 
+       {{< figure src="Pelargos-stat-test-table.png" alt="Table: Statistical hypothesis test analysis results" >}} 
 
-    3) By analysing different fetal developmental trajectories we identified a subpopulation of ASD subjects with significantly larger HCs than age-matched NTs during the 2nd and 3rd trimesters and before birth.
+    3) Through the analysis of fetal developmental trajectories, we identified a distinct subgroup of ASD subjects with significantly larger head circumferences (HCs) compared to both age-matched neurotypical (NT) peers and other ASD subjects during the second (T2) and third trimesters (T3), as well as prior to birth.
 
-        {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
+        {{< figure src="Pelargos-head-circumference.png" alt="Figure: identification of a subpopulation of ASD subjects with significantly larger head circumferences." >}}
 
 - **Next steps:**
 
