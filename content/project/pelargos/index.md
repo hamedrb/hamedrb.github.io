@@ -60,6 +60,37 @@ The project has successfully completed the proof-of-concept phase and is current
 This is my text inside a frame with a light blue background.
 </div>
 
+<div class="info-box tools">
+  <div class="icon">
+    <i class="fas fa-tools"></i> <!-- Icon for 'Tools' -->
+  </div>
+  <div class="content">
+    <div class="title">Tools Used</div>
+    <div class="description">Python, TensorFlow, XGBoost, SHAP, etc.</div>
+  </div>
+</div>
+
+<div class="info-box what">
+  <div class="icon">
+    <i class="fas fa-question-circle"></i> <!-- Icon for 'What' -->
+  </div>
+  <div class="content">
+    <div class="title">What</div>
+    <div class="description">Developed a classifier for early ASD prognosis.</div>
+  </div>
+</div>
+
+<div class="info-box why">
+  <div class="icon">
+    <i class="fas fa-lightbulb"></i> <!-- Icon for 'Why' -->
+  </div>
+  <div class="content">
+    <div class="title">Why</div>
+    <div class="description">To enable early ASD detection and intervention.</div>
+  </div>
+</div>
+
+
 - **What:** Pelargos project, powered by artificial intelligence, has two key goals: developing a cutting-edge medical device for the early prognosis of Autism Spectrum Disorders (ASD) in newborns and identifying new ASD biomarkers. By leveraging data routinely collected during pregnancy follow-ups, childbirth, and the first days of life, the device aims to enable timely interventions, improving outcomes for children at risk. Simultaneously, the identification of biomarkers will open new research pathways, shedding light on the unknown underlying mechanisms and early indicators of ASD, fostering innovation in both clinical and scientific fields.
 
 {{< figure src="pelargos-what.png" alt="Figure: What is the Pelargos project?" >}}

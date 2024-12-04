@@ -5,3 +5,93 @@
     border-radius: 5px;
     margin: 10px 0;
 }
+
+
+/* Box container */
+.info-box {
+    display: flex;
+    align-items: center; /* Align icon and text vertically */
+    background-color: #f0f8ff; /* Light blue background */
+    border: 1px solid #d1e7ff; /* Slightly darker border for contrast */
+    border-radius: 8px; /* Rounded corners */
+    padding: 15px; /* Space inside the box */
+    margin: 15px 0; /* Space between boxes */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  /* Icon container */
+  .info-box .icon {
+    flex-shrink: 0; /* Prevent icon from resizing */
+    width: 50px;
+    height: 50px;
+    background-color: #b3d8ff; /* Background for the icon circle */
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px; /* Adjust icon size */
+    color: white; /* Icon color */
+    margin-right: 15px; /* Space between icon and text */
+  }
+  
+  /* Title and content */
+  .info-box .content {
+    display: flex;
+    flex-direction: column; /* Stack title and description */
+  }
+  
+  .info-box .content .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #004a87; /* Darker blue for contrast */
+    margin-bottom: 5px;
+  }
+  
+  .info-box .content .description {
+    font-size: 14px;
+    color: #333; /* Neutral text color */
+  }
+
+.info-box:hover {
+  transform: scale(1.02); /* Slight zoom */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* Stronger shadow */
+}
+
+
+  /* Default background color (light blue) */
+.info-box {
+    background-color: #f0f8ff; /* Light blue */
+    border: 1px solid #d1e7ff;
+  }
+  
+  /* Custom background colors */
+  .info-box.tools {
+    background-color: #e6ffe6; /* Light green for 'Tools' */
+    border-color: #c8f7c5; /* Matching green border */
+  }
+  
+  .info-box.what {
+    background-color: #fff8e6; /* Light yellow for 'What' */
+    border-color: #ffe7b3; /* Matching yellow border */
+  }
+  
+  .info-box.why {
+    background-color: #ffebf0; /* Light pink for 'Why' */
+    border-color: #ffc2d1; /* Matching pink border */
+  }
+  
+  .info-box.how {
+    background-color: #e6f7ff; /* Light cyan for 'How' */
+    border-color: #c5e6f7; /* Matching cyan border */
+  }
+  
+  .info-box.results {
+    background-color: #f5e6ff; /* Light lavender for 'Results' */
+    border-color: #e3c5f7; /* Matching lavender border */
+  }
+  
+  .info-box.next-steps {
+    background-color: #ffe6e6; /* Light coral for 'Next Steps' */
+    border-color: #f7c5c5; /* Matching coral border */
+  }
+  
