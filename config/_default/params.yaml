@@ -62,4 +62,4 @@ features:
 # Added by me.
 params:
   customCSS:
-    - assets/css/custom.css
+    - css/custome.css
