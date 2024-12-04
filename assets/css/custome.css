@@ -1,0 +1,7 @@
+.light-blue-box {
+    background-color: #e7f3fe; /* Light blue background */
+    border: 1px solid #b3d8ff;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
