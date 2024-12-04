@@ -59,7 +59,7 @@ features:
   privacy_pack:
     enable: false
 
-## Added by me.
+# Added by me.
 params:
   customCSS:
-    - css/custom.css
+    - assets/css/custom.css
