@@ -51,41 +51,14 @@ links:
 
 publication:
   - caly-2021
-
-sections:
-  - block: markdown
-    content:
-      title: '🚧 NOTICE: The site is under construction 🚧'
-      subtitle: ''
-      text: |-
-        The site is a work in progress, lovingly crafted during my scarce free time. Expect some info to be wonky—updates are coming... eventually! 😉
-    design:
-      columns: '1'
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
 ---
 
 {{% callout note %}}
 The project has successfully completed the proof-of-concept phase and is currently progressing through Phase 1.{{% /callout %}}
+
+<div class="light-blue-box">
+  This is my text inside a frame with a light blue background.
+</div>
 
 - **What:** Pelargos project, powered by artificial intelligence, has two key goals: developing a cutting-edge medical device for the early prognosis of Autism Spectrum Disorders (ASD) in newborns and identifying new ASD biomarkers. By leveraging data routinely collected during pregnancy follow-ups, childbirth, and the first days of life, the device aims to enable timely interventions, improving outcomes for children at risk. Simultaneously, the identification of biomarkers will open new research pathways, shedding light on the unknown underlying mechanisms and early indicators of ASD, fostering innovation in both clinical and scientific fields.
 
