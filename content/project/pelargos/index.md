@@ -60,34 +60,26 @@ The project has successfully completed the proof-of-concept phase and is current
 This is my text inside a frame with a light blue background.
 </div>
 
-<div class="info-box tools">
-  <div class="icon">
-    <i class="fas fa-tools"></i> <!-- Icon for 'Tools' -->
-  </div>
-  <div class="content">
-    <div class="title">Tools Used</div>
-    <div class="description">Python, TensorFlow, XGBoost, SHAP, etc.</div>
-  </div>
+<div class="info-box tools" data-title="Tools & Technologies">
+    <div class="icon">
+        <i class="fas fa-cogs"></i>
+    </div>
+    <div class="content">
+        <div class="description">
+            List of tools and packages used: Python, pandas, XGBoost, etc.
+        </div>
+    </div>
 </div>
 
-<div class="info-box what">
-  <div class="icon">
-    <i class="fas fa-question-circle"></i> <!-- Icon for 'What' -->
-  </div>
-  <div class="content">
-    <div class="title">What</div>
-    <div class="description">Developed a classifier for early ASD prognosis.</div>
-  </div>
-</div>
-
-<div class="info-box why">
-  <div class="icon">
-    <i class="fas fa-lightbulb"></i> <!-- Icon for 'Why' -->
-  </div>
-  <div class="content">
-    <div class="title">Why</div>
-    <div class="description">To enable early ASD detection and intervention.</div>
-  </div>
+<div class="info-box overview" data-title="Overview">
+    <div class="icon">
+        <i class="fas fa-info-circle"></i>
+    </div>
+    <div class="content">
+        <div class="description">
+            This project focuses on early diagnosis of ASD in newborns.
+        </div>
+    </div>
 </div>
 
 
