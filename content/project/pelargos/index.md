@@ -56,8 +56,23 @@ publication:
 {{% callout note %}}
 The project has successfully completed the proof-of-concept phase and is currently progressing through Phase 1.{{% /callout %}}
 
+/*
 <div class="light-blue-box">
 This is my text inside a frame with a light blue background.
+</div>
+*/
+
+<div class="info-box overview">
+    <div class="icon">
+        <i class="fas fa-info-circle"></i>
+    </div>
+    <div class="content">
+        <div class="title">Overview</div>
+        <div class="description">
+            Pelargos project, powered by artificial intelligence, has two key goals: developing a cutting-edge medical device for the early prognosis of Autism Spectrum Disorders (ASD) in newborns and identifying new ASD biomarkers. By leveraging data routinely collected during pregnancy follow-ups, childbirth, and the first days of life, the device aims to enable timely interventions, improving outcomes for children at risk. Simultaneously, the identification of biomarkers will open new research pathways, shedding light on the unknown underlying mechanisms and early indicators of ASD, fostering innovation in both clinical and scientific fields.
+            {{< figure src="pelargos-what.png" alt="Figure: What is the Pelargos project?" >}}
+        </div>
+    </div>
 </div>
 
 <div class="info-box tools">
@@ -73,15 +88,62 @@ This is my text inside a frame with a light blue background.
     </div>
 </div>
 
-<div class="info-box overview">
+<div class="info-box challenge">
     <div class="icon">
-        <i class="fas fa-info-circle"></i>
+        <i class="fas fa-cogs"></i>
     </div>
     <div class="content">
-        <div class="title">Overview</div>
+        <div class="title">Challenges</div>
         <div class="description">
-            Pelargos project, powered by artificial intelligence, has two key goals: developing a cutting-edge medical device for the early prognosis of Autism Spectrum Disorders (ASD) in newborns and identifying new ASD biomarkers. By leveraging data routinely collected during pregnancy follow-ups, childbirth, and the first days of life, the device aims to enable timely interventions, improving outcomes for children at risk. Simultaneously, the identification of biomarkers will open new research pathways, shedding light on the unknown underlying mechanisms and early indicators of ASD, fostering innovation in both clinical and scientific fields.
-            {{< figure src="pelargos-what.png" alt="Figure: What is the Pelargos project?" >}}
+            Challenges Challenges Challenges Challenges
+        </div>
+    </div>
+</div>
+
+<div class="info-box approach">
+    <div class="icon">
+        <i class="fas fa-cogs"></i>
+    </div>
+    <div class="content">
+        <div class="title">approach</div>
+        <div class="description">
+            Approach Approach Approach Approach Approach
+        </div>
+    </div>
+</div>
+
+<div class="info-box impact">
+    <div class="icon">
+        <i class="fas fa-cogs"></i>
+    </div>
+    <div class="content">
+        <div class="title">impact</div>
+        <div class="description">
+            impact impact impact impact impact
+        </div>
+    </div>
+</div>
+
+<div class="info-box innovation">
+    <div class="icon">
+        <i class="fas fa-cogs"></i>
+    </div>
+    <div class="content">
+        <div class="title">innovation</div>
+        <div class="description">
+            innovation innovation innovation innovation innovation
+        </div>
+    </div>
+</div>
+
+<div class="info-box looking-ahead">
+    <div class="icon">
+        <i class="fas fa-cogs"></i>
+    </div>
+    <div class="content">
+        <div class="title">looking-ahead</div>
+        <div class="description">
+            looking-ahead looking-ahead looking-ahead looking-ahead
         </div>
     </div>
 </div>

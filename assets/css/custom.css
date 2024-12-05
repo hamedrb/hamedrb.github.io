@@ -6,6 +6,8 @@
     margin: 10px 0;
 }
 
+
+/* 
 /* Box container */
 .info-box {
   display: flex;
@@ -129,4 +131,99 @@
 
 .info-box.next-steps .icon {
   background-color: #f95a5a; /* Matching coral for icon */
+} */
+
+
+
+/* General Box Styles */
+.info-box {
+  display: flex;
+  align-items: flex-start;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: 3px solid transparent; /* Border for individual box colors */
+}
+
+.info-box:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Icon Styles */
+.info-box .icon {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  margin-right: 15px;
+  background-color: rgba(255, 255, 255, 0.2); /* Icon circle background */
+}
+
+/* Title and Description */
+.info-box .content {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-box .content .title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: inherit; /* Inherits text color from the box */
+}
+
+.info-box .content .description {
+  font-size: 14px;
+  color: inherit; /* Inherits text color from the box */
+}
+
+/* Custom Background Colors */
+.info-box.overview {
+  background-color: #EAF6FF; /* Lightest Blue */
+  border-color: #A3D3FF; /* Complementary border */
+  color: #004A87; /* Text and title color */
+}
+
+.info-box.tools {
+  background-color: #D6ECFF; /* Light Blue */
+  border-color: #8FCFFF; /* Complementary border */
+  color: #003F6E; /* Text and title color */
+}
+
+.info-box.challenge {
+  background-color: #A8D4FF; /* Blue */
+  border-color: #67B5FF; /* Complementary border */
+  color: #002E58; /* Text and title color */
+}
+
+.info-box.approach {
+  background-color: #79BBFF; /* Mid Blue */
+  border-color: #4A9CFF; /* Complementary border */
+  color: #00203B; /* Text and title color */
+}
+
+.info-box.impact {
+  background-color: #4CA3FF; /* Bright Blue */
+  border-color: #1E85FF; /* Complementary border */
+  color: #001A2F; /* Text and title color */
+}
+
+.info-box.innovation {
+  background-color: #267BFF; /* Deep Blue */
+  border-color: #005BEA; /* Complementary border */
+  color: #FFFFFF; /* Text and title color */
+}
+
+.info-box.looking-ahead {
+  background-color: #0056B3; /* Darkest Blue */
+  border-color: #003A87; /* Complementary border */
+  color: #FFFFFF; /* Text and title color */
 }
