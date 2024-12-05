@@ -68,6 +68,7 @@ This is my text inside a frame with a light blue background.
         <div class="title">Tools & Technologies</div>
         <div class="description">
             List of tools and packages used: Python, pandas, XGBoost, etc.
+            {{< figure src="XGBoost_logo.png" alt="Figure: XGBoost logo" >}}
         </div>
     </div>
 </div>
