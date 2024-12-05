@@ -60,27 +60,30 @@ The project has successfully completed the proof-of-concept phase and is current
 This is my text inside a frame with a light blue background.
 </div>
 
-<div class="info-box tools" data-title="Tools & Technologies">
+<div class="info-box tools">
     <div class="icon">
         <i class="fas fa-cogs"></i>
     </div>
     <div class="content">
+        <div class="title">Tools & Technologies</div>
         <div class="description">
             List of tools and packages used: Python, pandas, XGBoost, etc.
         </div>
     </div>
 </div>
 
-<div class="info-box overview" data-title="Overview">
+<div class="info-box overview">
     <div class="icon">
         <i class="fas fa-info-circle"></i>
     </div>
     <div class="content">
+        <div class="title">Overview</div>
         <div class="description">
             This project focuses on early diagnosis of ASD in newborns.
         </div>
     </div>
 </div>
+
 
 
 - **What:** Pelargos project, powered by artificial intelligence, has two key goals: developing a cutting-edge medical device for the early prognosis of Autism Spectrum Disorders (ASD) in newborns and identifying new ASD biomarkers. By leveraging data routinely collected during pregnancy follow-ups, childbirth, and the first days of life, the device aims to enable timely interventions, improving outcomes for children at risk. Simultaneously, the identification of biomarkers will open new research pathways, shedding light on the unknown underlying mechanisms and early indicators of ASD, fostering innovation in both clinical and scientific fields.

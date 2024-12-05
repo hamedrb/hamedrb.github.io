@@ -6,18 +6,17 @@
     margin: 10px 0;
 }
 
-
 /* Box container */
 .info-box {
   display: flex;
-  align-items: center; /* Align icon and text vertically */
-  border: 1px solid transparent; /* Default border for fallback */
+  align-items: flex-start; /* Align items to the top */
+  background-color: #f0f8ff; /* Default Light blue background */
+  border: 1px solid #d1e7ff; /* Slightly darker border for contrast */
   border-radius: 8px; /* Rounded corners */
   padding: 15px; /* Space inside the box */
   margin: 15px 0; /* Space between boxes */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  position: relative; /* For pseudo-elements */
-  overflow: hidden; /* Ensures child elements are clipped */
+  overflow: hidden; /* Prevent overflow */
   color: #333; /* Neutral text color */
 }
 
@@ -44,21 +43,20 @@
 /* Content container */
 .info-box .content {
   display: flex;
-  flex-direction: column; /* Stack description */
-}
-
-.info-box .content .description {
-  font-size: 14px;
+  flex-direction: column; /* Stack title and description */
 }
 
 /* Titles (using :before) */
-.info-box::before {
-  content: attr(data-title); /* Use data-title attribute for dynamic content */
-  display: block;
+.info-box .content .title {
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 5px;
-  color: inherit; /* Default color matches the box */
+  color: inherit; /* Title color matches box */
+}
+
+/* Description */
+.info-box .content .description {
+  font-size: 14px;
 }
 
 /* Default background */
@@ -132,4 +130,3 @@
 .info-box.next-steps .icon {
   background-color: #f95a5a; /* Matching coral for icon */
 }
-
