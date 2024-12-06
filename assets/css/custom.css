@@ -42,7 +42,7 @@
 /* Title and Description */
 .info-box .content {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column;*/
 }
 
 .info-box .content .title {
