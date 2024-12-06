@@ -62,6 +62,7 @@
   color: inherit; /* Inherit box color */
   text-align: justify;
   padding: 1px 50px; 
+  line-height: 1.6; /* Adjust for better readability */
 }
 
 
