@@ -61,9 +61,7 @@ This is my text inside a frame with a light blue background.
 </div>
 
 <div class="info-box overview">
-    <div class="icon">
-        <i class="fas fa-info-circle"></i>
-    </div>
+    <div class="icon">📝</div>
     <div class="content">
         <div class="title">Overview</div>
         <div class="description">
@@ -74,9 +72,9 @@ This is my text inside a frame with a light blue background.
 </div>
 
 <div class="info-box tools">
-    <div class="icon">🔧</div>
+    <div class="icon">🛠️</div>
     <div class="content">
-        <div class="title">Tools & Technologies</div>
+        <div class="title">Tech Stack</div>
         <div class="description">
             List of tools and packages used: Python, pandas, XGBoost, etc.
             {{< figure src="XGBoost_logo.png" alt="Figure: XGBoost logo" >}}
@@ -85,11 +83,9 @@ This is my text inside a frame with a light blue background.
 </div>
 
 <div class="info-box challenge">
-    <div class="icon">
-        <i class="fas fa-cogs"></i>
-    </div>
+    <div class="icon">🚧</div>
     <div class="content">
-        <div class="title">Challenges</div>
+        <div class="title">Challenge</div>
         <div class="description">
             Challenges Challenges Challenges Challenges
         </div>
@@ -97,11 +93,9 @@ This is my text inside a frame with a light blue background.
 </div>
 
 <div class="info-box approach">
-    <div class="icon">
-        <i class="fas fa-cogs"></i>
-    </div>
+    <div class="icon">🧩</div>
     <div class="content">
-        <div class="title">approach</div>
+        <div class="title">Approach</div>
         <div class="description">
             Approach Approach Approach Approach Approach
         </div>
@@ -109,11 +103,9 @@ This is my text inside a frame with a light blue background.
 </div>
 
 <div class="info-box impact">
-    <div class="icon">
-        <i class="fas fa-cogs"></i>
-    </div>
+    <div class="icon">🌟</div>
     <div class="content">
-        <div class="title">impact</div>
+        <div class="title">Impact</div>
         <div class="description">
             impact impact impact impact impact
         </div>
@@ -121,11 +113,9 @@ This is my text inside a frame with a light blue background.
 </div>
 
 <div class="info-box innovation">
-    <div class="icon">
-        <i class="fas fa-cogs"></i>
-    </div>
+    <div class="icon">💡</div>
     <div class="content">
-        <div class="title">innovation</div>
+        <div class="title">Innovation</div>
         <div class="description">
             innovation innovation innovation innovation innovation
         </div>
@@ -133,11 +123,9 @@ This is my text inside a frame with a light blue background.
 </div>
 
 <div class="info-box looking-ahead">
-    <div class="icon">
-        <i class="fas fa-cogs"></i>
-    </div>
+    <div class="icon">🔭</div>
     <div class="content">
-        <div class="title">looking-ahead</div>
+        <div class="title">Perspective</div>
         <div class="description">
             looking-ahead looking-ahead looking-ahead looking-ahead
         </div>
