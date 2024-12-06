@@ -61,6 +61,6 @@ features:
 
 # Added by me create boxes and to include Font Awesome (for box icons)
 params:
+  custom_head: true
   customCSS:
     - css/custom.css
-  custom_head: true
