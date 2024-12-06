@@ -49,16 +49,18 @@ links:
 # projects:
 #   - example
 
+# Usage of info box after ---
+# {{% callout note %}}
+# The project has successfully completed the proof-of-concept phase and is currently progressing through Phase 1.{{% /callout %}}
+
+# Usage of my custom box after ---
+# <div class="light-blue-box">
+# This is my text inside a frame with a light blue background.
+# </div>
+
 publication:
   - caly-2021
 ---
-
-{{% callout note %}}
-The project has successfully completed the proof-of-concept phase and is currently progressing through Phase 1.{{% /callout %}}
-
-<div class="light-blue-box">
-This is my text inside a frame with a light blue background.
-</div>
 
 <div class="info-box overview">
     <div class="icon">📝</div>
