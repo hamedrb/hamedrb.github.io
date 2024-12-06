@@ -47,7 +47,7 @@
 .info-box .content .title-container {
   display: flex;
   align-items: center; /* Align icon and title horizontally */
-  gap: 7px; /* Space between icon and title */
+  /* gap: 7px; /* Space between icon and title */
 }
 
 .info-box .content .title {
