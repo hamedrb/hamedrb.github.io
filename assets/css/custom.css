@@ -6,7 +6,6 @@
     margin: 10px 0;
 }
 
- 
 /* General Box Styles */
 .info-box {
   display: flex;
@@ -59,43 +58,43 @@
 
 /* Custom Background Colors */
 .info-box.overview {
-  background-color: #EAF6FF; /* Lightest Blue */
-  border-color: #A3D3FF; /* Complementary border */
-  color: #004A87; /* Text and title color */
+  background-color: #E6F9EC; /* Lightest Green */
+  border-color: #A3D7A5; /* Complementary border */
+  color: #006400; /* Text and title color */
 }
 
 .info-box.tools {
-  background-color: #D6ECFF; /* Light Blue */
-  border-color: #8FCFFF; /* Complementary border */
-  color: #003F6E; /* Text and title color */
+  background-color: #D0F2D6; /* Light Green */
+  border-color: #A1E1A0; /* Complementary border */
+  color: #003F30; /* Text and title color */
 }
 
 .info-box.challenge {
-  background-color: #A8D4FF; /* Blue */
-  border-color: #67B5FF; /* Complementary border */
-  color: #002E58; /* Text and title color */
+  background-color: #A8E0A6; /* Green */
+  border-color: #67C57B; /* Complementary border */
+  color: #003019; /* Text and title color */
 }
 
 .info-box.approach {
-  background-color: #79BBFF; /* Mid Blue */
-  border-color: #4A9CFF; /* Complementary border */
-  color: #00203B; /* Text and title color */
+  background-color: #79D78B; /* Mid Green */
+  border-color: #4AC174; /* Complementary border */
+  color: #003F2E; /* Text and title color */
 }
 
 .info-box.impact {
-  background-color: #4CA3FF; /* Bright Blue */
-  border-color: #1E85FF; /* Complementary border */
-  color: #001A2F; /* Text and title color */
+  background-color: #4CAF50; /* Bright Green */
+  border-color: #2D8A39; /* Complementary border */
+  color: #00221B; /* Text and title color */
 }
 
 .info-box.innovation {
-  background-color: #267BFF; /* Deep Blue */
-  border-color: #005BEA; /* Complementary border */
+  background-color: #267B3E; /* Deep Green */
+  border-color: #006F27; /* Complementary border */
   color: #FFFFFF; /* Text and title color */
 }
 
 .info-box.looking-ahead {
-  background-color: #0056B3; /* Darkest Blue */
-  border-color: #003A87; /* Complementary border */
+  background-color: #005B32; /* Darkest Green */
+  border-color: #004029; /* Complementary border */
   color: #FFFFFF; /* Text and title color */
 }
