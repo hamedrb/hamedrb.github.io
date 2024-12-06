@@ -59,8 +59,7 @@ features:
   privacy_pack:
     enable: false
 
-# Added by me create boxes and to include Font Awesome (for box icons)
+# Added by me create boxes
 params:
-  custom_head: true
   customCSS:
     - css/custom.css
