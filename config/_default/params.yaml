@@ -59,13 +59,8 @@ features:
   privacy_pack:
     enable: false
 
-# Added by me
+# Added by me create boxes and to include Font Awesome (for box icons)
 params:
   customCSS:
     - css/custom.css
-
-## Added by me to include Font Awesome (for box icons)
-assets:
-  custom_css:
-    - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
-
+  custom_head: true
