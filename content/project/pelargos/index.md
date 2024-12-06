@@ -159,7 +159,7 @@ publication:
 </div>
 
 <div class="info-box approach">
-    <div class="icon">🧩</div>
+    <div class="icon">🔑</div>
     <div class="content">
         <div class="title">Approach</div>
         <div class="description">
