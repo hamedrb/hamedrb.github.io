@@ -60,6 +60,7 @@
   margin-top: 5px; /* Space between title and description */
   font-size: 18px;
   color: inherit; /* Inherit box color */
+  text-align: justify;
 }
 
 
