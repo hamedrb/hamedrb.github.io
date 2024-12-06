@@ -77,7 +77,7 @@ This is my text inside a frame with a light blue background.
 
 <div class="info-box tools">
     <div class="icon">
-        <i class="fas fa-cogs"></i>
+        <i class=⚙></i>
     </div>
     <div class="content">
         <div class="title">Tools & Technologies</div>
