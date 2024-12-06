@@ -126,9 +126,9 @@ publication:
 ---
 
 <div class="info-box overview">
-  <div class="icon">📊</div>
   <div class="content">
     <div class="title-container">
+      <div class="icon">📝</div>
       <div class="title">Overview</div>
     </div>
     <div class="description">
