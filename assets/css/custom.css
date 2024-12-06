@@ -54,6 +54,7 @@
 .info-box .content .description {
   font-size: 18px;
   color: inherit; /* Inherits text color from the box */
+  text-align: justify; /* Justify the description text */
 }
 
 /* Custom Background Colors */
