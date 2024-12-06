@@ -174,14 +174,14 @@
 }
 
 .info-box .content .title {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: bold;
   margin-bottom: 5px;
   color: inherit; /* Inherits text color from the box */
 }
 
 .info-box .content .description {
-  font-size: 14px;
+  font-size: 18px;
   color: inherit; /* Inherits text color from the box */
 }
 

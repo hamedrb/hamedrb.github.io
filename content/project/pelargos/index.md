@@ -62,6 +62,9 @@ This is my text inside a frame with a light blue background.
 </div>
 */
 
+<i class="fas fa-check"></i> Font Awesome is working!
+
+
 <div class="info-box overview">
     <div class="icon">
         <i class="fas fa-info-circle"></i>
