@@ -83,7 +83,7 @@ This is my text inside a frame with a light blue background.
 </div>
 
 <div class="info-box challenge">
-    <div class="icon">🚧</div>
+    <div class="icon">🔒</div>
     <div class="content">
         <div class="title">Challenge</div>
         <div class="description">
