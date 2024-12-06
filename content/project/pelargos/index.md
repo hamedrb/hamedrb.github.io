@@ -132,7 +132,6 @@ publication:
         <div class="description">
             Pelargos project, powered by artificial intelligence, has two key goals: developing a cutting-edge medical device for the early prognosis of Autism Spectrum Disorders (ASD) in newborns and identifying new ASD biomarkers. By leveraging data routinely collected during pregnancy follow-ups, childbirth, and the first days of life, the device aims to enable timely interventions, improving outcomes for children at risk. Simultaneously, the identification of biomarkers will open new research pathways, shedding light on the unknown underlying mechanisms and early indicators of ASD, fostering innovation in both clinical and scientific fields.
             {{< figure src="pelargos-what-newColors.png" alt="Figure: What is the Pelargos project?" >}}
-
         </div>
     </div>
 </div>
