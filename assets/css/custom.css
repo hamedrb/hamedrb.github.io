@@ -12,7 +12,7 @@
   align-items: flex-start;
   border-radius: 8px;
   padding: 15px;
-  padding-right: 25px; /* Increase right-side padding (25px here) */
+  padding-right: 40px; /* Increase right-side padding */
   margin: 15px 0;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   overflow: hidden;
