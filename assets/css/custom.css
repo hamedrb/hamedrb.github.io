@@ -90,7 +90,7 @@
   
     .info-box .icon {
       margin-right: 0;
-      margin-bottom: 10px; /* Add spacing below icon */
+      /* margin-bottom: 10px; /* Add spacing below icon */
       align-self: center; /* Center the icon */
     }
   
