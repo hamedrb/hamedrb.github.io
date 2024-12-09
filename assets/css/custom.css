@@ -85,7 +85,7 @@
   @media (max-width: 480px) {
     .info-box {
       flex-direction: column; /* Stack icon and content vertically on very small screens */
-      padding: 10px 12px;
+      padding: 10px;
     }
   
     .info-box .icon {
@@ -100,6 +100,7 @@
   
     .info-box .content .description {
       text-align: justify; /* Retain justification for text-heavy content */
+      padding: 1px 40px;
     }
   }
   
