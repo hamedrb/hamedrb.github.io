@@ -138,75 +138,74 @@ publication:
   </div>
 </div>
 
-
-<div class="info-box overview">
-    <div class="icon">📝</div>
-    <div class="content">
-        <div class="title">Overview</div>
-        <div class="description">
-            Pelargos project, powered by artificial intelligence, has two key goals: developing a cutting-edge medical device for the early prognosis of Autism Spectrum Disorders (ASD) in newborns and identifying new ASD biomarkers. By leveraging data routinely collected during pregnancy follow-ups, childbirth, and the first days of life, the device aims to enable timely interventions, improving outcomes for children at risk. Simultaneously, the identification of biomarkers will open new research pathways, shedding light on the unknown underlying mechanisms and early indicators of ASD, fostering innovation in both clinical and scientific fields.
-            {{< figure src="pelargos-what.png" alt="Figure: What is the Pelargos project?" >}}
-        </div>
-    </div>
-</div>
-
 <div class="info-box tools">
-    <div class="icon">🛠️</div>
-    <div class="content">
-        <div class="title">Tech Stack</div>
-        <div class="description">
-            Tech Tech Tech Tech Tech
-        </div>
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🛠️</div>
+      <div class="title">Tech Stack</div>
     </div>
+    <div class="description">
+        Tech Tech Tech Tech Tech
+    </div>
+  </div>
 </div>
 
 <div class="info-box challenge">
-    <div class="icon">🔒</div>
-    <div class="content">
-        <div class="title">Challenge</div>
-        <div class="description">
-            Challenges Challenges Challenges Challenges
-        </div>
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔒</div>
+      <div class="title">Challenge</div>
     </div>
+    <div class="description">
+        Challenges Challenges Challenges Challenges
+    </div>
+  </div>
 </div>
 
 <div class="info-box approach">
-    <div class="icon">🔑</div>
-    <div class="content">
-        <div class="title">Approach</div>
-        <div class="description">
-            Approach Approach Approach Approach Approach
-        </div>
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔑</div>
+      <div class="title">Approach</div>
     </div>
+    <div class="description">
+        Approach Approach Approach Approach Approach
+    </div>
+  </div>
 </div>
 
 <div class="info-box impact">
-    <div class="icon">🌟</div>
-    <div class="content">
-        <div class="title">Impact</div>
-        <div class="description">
-            impact impact impact impact impact
-        </div>
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🌟</div>
+      <div class="title">Impact</div>
     </div>
+    <div class="description">
+        impact impact impact impact impact
+    </div>
+  </div>
 </div>
 
 <div class="info-box innovation">
-    <div class="icon">💡</div>
-    <div class="content">
-        <div class="title">Innovation</div>
-        <div class="description">
-            innovation innovation innovation innovation innovation
-        </div>
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">💡</div>
+      <div class="title">Innovation</div>
     </div>
+    <div class="description">
+        innovation innovation innovation innovation innovation
+    </div>
+  </div>
 </div>
 
-<div class="info-box looking-ahead">
-    <div class="icon">🔭</div>
-    <div class="content">
-        <div class="title">Perspective</div>
-        <div class="description">
-            looking-ahead looking-ahead looking-ahead looking-ahead
-        </div>
+<div class="info-box perspective">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔭</div>
+      <div class="title">Perspective</div>
     </div>
+    <div class="description">
+        Perspective Perspective Perspective Perspective Perspective
+    </div>
+  </div>
 </div>
-
