@@ -92,6 +92,7 @@
       margin-right: 0;
       /* margin-bottom: 10px; /* Add spacing below icon */
       align-self: center; /* Center the icon */
+      gap: 7px; /* Space between icon and title */
     }
   
     .info-box .content {
