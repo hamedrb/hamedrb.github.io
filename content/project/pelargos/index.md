@@ -155,7 +155,7 @@ publication:
       <div class="title">Challenge</div>
     </div>
     <div class="description">
-        ASD, characterized by persistent deficits in communication and social interactions, along with restricted and repetitive behaviors, affects approximately 67 million individuals worldwide. The global prevalence of ASD is estimated to be around 2% and is steadily increasing. In the absence of an approved pharmacological treatment, symptom management relies on compensatory behavioral therapies, such as TEACCH and ABA, which are most effective when started early, during the peak of brain plasticity, before 2–3 years of age. Unfortunately, the current average age of diagnosis for these complex and heterogeneous disorders remains between 4 and 5 years, preventing timely interventions at the most critical developmental period. Early identification of children with ASD thus remains a significant global public health challenge.
+        ASD, characterized by persistent deficits in communication and social interactions, along with restricted and repetitive behaviors, affects approximately 67 million individuals worldwide. The global prevalence of ASD is estimated to be around 2% and is steadily increasing. In the absence of an approved pharmacological treatment, symptom management relies on compensatory behavioral therapies, such as TEACCH and ABA, which are most effective when started early, during the peak of brain plasticity, before 2–3 years of age. Unfortunately, the current average age of diagnosis for these complex and heterogeneous disorders remains between 4 and 5 years, preventing timely interventions at the most critical developmental period. <b>Early identification of children with ASD thus remains a significant global public health challenge.</b>
         {{< figure src="pelargos-why.png" alt="Figure: ASD in numbers--Why Pelargos is needed?" >}}
     </div>
   </div>
@@ -168,7 +168,11 @@ publication:
       <div class="title">Approach</div>
     </div>
     <div class="description">
-        Approach Approach Approach Approach Approach
+        Our approach is based on a hypothesis, supported by clinical and histological evidence, that ASD originates in the perinatal period. According to this hypothesis, it may be possible to detect ASD markers through biological and ultrasound measurements routinely collected in pregnancy follow-ups and maternity clinics, from the first trimester through the first days after birth. To explore this, we conducted a retrospective analysis on a cohort of 63 children diagnosed with ASD at ages 2–5 years, along with an age-matched control group of 189 neurotypical (NT) children, all born in 2012–2013 at the Hospital of the University of Limoges in France.
+        Given the large number of variables and the complex, multivariate, and poorly understood relationships among them, we employed advanced statistical tools to identify distinguishing patterns between NT and ASD groups. A supervised machine learning (ML) algorithm, XGBoost, was trained to classify newborns into ASD and NT categories. The model was designed to maintain a false positive rate below 5% while maximizing sensitivity. To ensure the robustness and generalizability of the classifier, a cross-validation (CV) technique was employed. The variables most influential in the classifier's decisions were identified using SHAP (SHapley Additive exPlanations) analysis.
+        Simultaneously, traditional statistical hypothesis tests were applied to detect significant differences in the distributions of collected variables between NT and ASD groups. Additionally, we analyzed longitudinal developmental trajectories of head circumference (HC) growth in fetuses using statistical models such as ANCOVA and quadratic mixed-effect models. These analyses aimed to explore whether the megalencephalic brains observed in children and adolescents with ASD could originate during fetal development.
+        This multi-faceted approach integrates advanced machine learning with conventional statistical methods to uncover potential biomarkers and developmental patterns associated with ASD.
+        {{< figure src="pelargos-how.png" alt="Figure: Methods used in Pelargos" >}}
     </div>
   </div>
 </div>
