@@ -168,10 +168,8 @@ publication:
       <div class="title">Approach</div>
     </div>
     <div class="description">
-        <p>
         <b>Rationale:</b><br>
         Our approach is based on a hypothesis, supported by clinical and histological evidence, that ASD originates in the perinatal period. According to this hypothesis, it may be possible to detect ASD markers through biological and ultrasound measurements routinely collected in pregnancy follow-ups and maternity clinics, from the first trimester through the first days after birth.
-        </p>
         <p>
         <b>Population:</b><br>
         To explore this, we conducted a retrospective analysis on a cohort of 63 children diagnosed with ASD at ages 2–5 years, along with an age-matched control group of 189 neurotypical (NT) children, all born in 2012–2013 at the Hospital of the University of Limoges in France.
