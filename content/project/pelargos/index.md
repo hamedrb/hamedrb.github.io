@@ -156,14 +156,12 @@ publication:
           The primary outcome of the project is a trained classifier, which serves as the core component of the Pelargos medical device. Regarding our training strategy, aimed at maintaining the false positive rate below 5% while maximizing sensitivity, the performance of the classifier, measured by a CV technique, is summerized in the table below:
         </p>
         <table>
-          <thead>
+          <tbody>
             <tr>
               <td><b>Score</b></td>
               <td><b>Description</b></td>
               <td><b>Value</b></td>
             </tr>
-          </thead>
-          <tbody>
             <tr>
               <td>Specificity</td>
               <td>Ability to correctly identify neurotypical cases (true negatives)</td>
