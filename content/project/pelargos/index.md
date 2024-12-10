@@ -186,14 +186,12 @@ publication:
           Each row represents a variable, with a point colored according to its corresponding value for each subject. The color map illustrates how the impact of each variable varies with its values. Values on the positive (orange) or negative (green) side of the SHAP distribution correspond to classifications of ASD or NT, respectively. The following table presents the variables, along with the value ranges that drive the classifier toward an ASD diagnosis.
         </p>
         <table>
-          <thead>
+          <tbody>
             <tr>
               <td><b>Variable</b></td>
               <td><b>Relative Impact</b></td>
               <td><b>Critical Value Range for ASD Classification</b></td>
             </tr>
-          </thead>
-          <tbody>
             <tr>
               <td>Timing of fetal rotation on head</td>
               <td>44%</td>
