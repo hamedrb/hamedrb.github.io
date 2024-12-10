@@ -64,17 +64,6 @@ publication:
 
 # List of tools and packages used: Python, pandas, XGBoost, etc.
 # {{< figure src="XGBoost_logo.png" alt="Figure: XGBoost logo" >}}
-
-
-
-
-
-# - **Results:**
-#     
-# - **Next steps:**
-
-# {{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
-
 ---
 
 <div class="info-box overview">
@@ -109,7 +98,8 @@ publication:
       <div class="title">Challenge</div>
     </div>
     <div class="description">
-        ASD, characterized by persistent deficits in communication and social interactions, along with restricted and repetitive behaviors, affects approximately 67 million individuals worldwide. The global prevalence of ASD is estimated to be around 2% and is steadily increasing. In the absence of an approved pharmacological treatment, symptom management relies on compensatory behavioral therapies, such as TEACCH and ABA, which are most effective when started early, during the peak of brain plasticity, before 2–3 years of age. Unfortunately, the current average age of diagnosis for these complex and heterogeneous disorders remains between 4 and 5 years, preventing timely interventions at the most critical developmental period. <b>Early identification of children with ASD thus remains a significant global public health challenge.</b>
+        ASD, characterized by persistent deficits in communication and social interactions, along with restricted and repetitive behaviors, affects approximately 67 million individuals worldwide. The global prevalence of ASD is estimated to be around 2% and is steadily increasing. In the absence of an approved pharmacological treatment, symptom management relies on compensatory behavioral therapies, such as TEACCH and ABA, which are most effective when started early, during the peak of brain plasticity, before 2–3 years of age. Unfortunately, the current average age of diagnosis for these complex and heterogeneous disorders remains between 4 and 5 years, preventing timely interventions at the most critical developmental period.<br>
+        <b>Early identification of children with ASD thus remains a significant global public health challenge.</b>
         {{< figure src="pelargos-why.png" alt="Figure: ASD in numbers--Why Pelargos is needed?" >}}
     </div>
   </div>
@@ -240,7 +230,13 @@ publication:
       <div class="title">Innovation</div>
     </div>
     <div class="description">
-        innovation innovation innovation innovation innovation
+        <div class="title-container">
+          <div class="icon">💡</div>
+          <div class="title">World First</div>
+        </div>
+        <div class="description">
+          Bla bla bla bla bla
+        </div>
     </div>
   </div>
 </div>
