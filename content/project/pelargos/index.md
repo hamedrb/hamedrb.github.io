@@ -134,7 +134,7 @@ publication:
         </p>
         <p>
         <b>Statistical tests and modelling:</b><br>
-        Simultaneously, traditional statistical hypothesis tests were applied to detect significant differences in the distributions of collected variables between NT and ASD groups. Additionally, we analyzed longitudinal developmental trajectories of head circumference (HC) growth in fetuses using statistical models such as ANCOVA and quadratic mixed-effect models. These analyses aimed to explore whether the megalencephalic brains observed in children and adolescents with ASD could originate during fetal development.
+        Simultaneously, traditional statistical hypothesis tests were applied to detect significant differences in the distributions of collected variables between NT and ASD groups.The Benjamini–Hochberg procedure was employed to control the false discovery rate for multiple comparisons. Additionally, we analyzed longitudinal developmental trajectories of head circumference (HC) growth in fetuses using statistical models such as ANCOVA and quadratic mixed-effect models. These analyses aimed to explore whether the megalencephalic brains observed in children and adolescents with ASD could originate during fetal development.
         </p>
         <p>
         This multi-faceted approach integrates advanced machine learning with conventional statistical methods to uncover potential biomarkers and developmental patterns associated with ASD.
@@ -151,10 +151,8 @@ publication:
       <div class="title">Impact</div>
     </div>
     <div class="description">
-        <p>
-          <b>Trained ASD classifier:</b><br>
+          <b>Trained ASD classifier</b><br>
           The primary outcome of the project is a trained classifier, which serves as the core component of the Pelargos medical device. Regarding our training strategy, aimed at maintaining the false positive rate below 5% while maximizing sensitivity, the performance of the classifier, measured by a CV technique, is summerized in the table below:
-        </p>
         <table>
           <tbody>
             <tr>
@@ -180,7 +178,7 @@ publication:
           </tbody>
         </table>
         <p>
-          <b>Interpretation of the classifier's output:</b><br>
+          <b>Interpretation of the classifier's output</b><br>
           The SHAP analysis provided valuable insights into the classification results, identifying variables that significantly influence the classifier's performance. From a clinical perspective, these variables hold potential as biomarkers for ASD. Below are the 5 most impactful variables:
           {{< figure src="Pelargos-results-shap.png" alt="Figure: SHAP analysis" >}}
           Each row represents a variable, with a point colored according to its corresponding value for each subject. The color map illustrates how the impact of each variable varies with its values. Values on the positive (orange) or negative (green) side of the SHAP distribution correspond to classifications of ASD or NT, respectively. The following table presents the variables, along with the value ranges that drive the classifier toward an ASD diagnosis.
@@ -220,7 +218,7 @@ publication:
           </tbody>
         </table>
         <p>
-          <b>Statistical hypothesis testing:</b><br>
+          <b>Statistical hypothesis testing</b><br>
           Statistical hypothesis testing identified 5 variables with significant differences between the ASD and NT groups, suggesting their potential as biomarkers for ASD.
           {{< figure src="Pelargos-stat-test.png" alt="Figure: Statistical hypothesis test analysis results" >}} 
           The statistical details are summarized in the table below.
