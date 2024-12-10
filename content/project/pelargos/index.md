@@ -230,20 +230,34 @@ publication:
       <div class="title">Innovation</div>
     </div>
     <div class="description">
-        <div class="title-container">
-          <div class="icon">💡</div>
-          <div class="title">World First</div>
-        </div>
-        <div class="description">
-          Bla bla bla bla bla
-        </div>
-        <div class="title-container">
-          <div class="icon">💡</div>
-          <div class="title">Prize Winner</div>
-        </div>
-        <div class="description">
-          Bla bla bla bla bla
-        </div>
+        <table>
+          <tbody>
+            <tr>
+              <td>💡</td>
+              <td><b>World First</b></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>BlaBlaBla</td>
+            </tr>
+            <tr>
+              <td>💡</td>
+              <td><b>Prize Winner</b></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>BlaBlaBla</td>
+            </tr>
+            <tr>
+              <td>💡</td>
+              <td><b>Another thing</b></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>BlaBlaBla</td>
+            </tr>
+          </tbody>
+        </table>
     </div>
   </div>
 </div>
