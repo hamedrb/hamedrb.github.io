@@ -230,34 +230,20 @@ publication:
       <div class="title">Innovation</div>
     </div>
     <div class="description">
-        <table>
-          <tbody>
-            <tr>
-              <td>💡</td>
-              <td><b>World First</b></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td>BlaBlaBla</td>
-            </tr>
-            <tr>
-              <td>💡</td>
-              <td><b>Prize Winner</b></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td>BlaBlaBla</td>
-            </tr>
-            <tr>
-              <td>💡</td>
-              <td><b>Another thing</b></td>
-            </tr>
-            <tr>
-              <td></td>
-              <td>BlaBlaBla</td>
-            </tr>
-          </tbody>
-        </table>
+      <ul>
+        <li>
+          <img src="ai-icon.png" alt="Icon 1" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
+          World First
+        </li>
+        <li>
+          <img src="ai-icon.png" alt="Icon 2" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
+          Cutting-Edge Technology
+        </li>
+        <li>
+          <img src="ai-icon.png" alt="Icon 3" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
+          Industry Leader
+        </li>
+      </ul>
     </div>
   </div>
 </div>
