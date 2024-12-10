@@ -176,7 +176,7 @@ publication:
         </p>
         <p>
         <b>Classification:</b><br>
-        Given the large number of variables and the complex, multivariate, and poorly understood relationships among them, we employed advanced statistical tools to identify distinguishing patterns between NT and ASD groups. A supervised machine learning (ML) algorithm, XGBoost, was trained to classify newborns into ASD and NT categories. The model was designed to maintain a false positive rate below 5% while maximizing sensitivity. To ensure the robustness and generalizability of the classifier, a cross-validation (CV) technique was employed. The variables most influential in the classifier's decisions were identified using SHAP (SHapley Additive exPlanations) analysis.
+        Given the large number of variables and the complex, multivariate, and poorly understood relationships among them, we employed advanced statistical tools to identify distinguishing patterns between NT and ASD groups. A supervised machine learning (ML) algorithm, XGBoost, was trained to classify newborns into ASD and NT categories. In line with ethical considerations, the model was designed to maintain a false positive rate below 5% while maximizing sensitivity. To ensure the classifier's robustness and generalizability, as well as to optimize hyperparameters, a nested cross-validation (CV) approach was utilized. The variables most influential in the classifier's decisions were identified using SHAP (SHapley Additive exPlanations) analysis.
         </p>
         <p>
         <b>Statistical tests and modelling:</b><br>
