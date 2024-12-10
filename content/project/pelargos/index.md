@@ -237,6 +237,13 @@ publication:
         <div class="description">
           Bla bla bla bla bla
         </div>
+        <div class="title-container">
+          <div class="icon">💡</div>
+          <div class="title">Prize Winner</div>
+        </div>
+        <div class="description">
+          Bla bla bla bla bla
+        </div>
     </div>
   </div>
 </div>
