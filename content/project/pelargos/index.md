@@ -158,9 +158,9 @@ publication:
         <table>
           <thead>
             <tr>
-              <th>Score</th>
-              <th>Description</th>
-              <th>Value</th>
+              <td><b>Score</b></td>
+              <td><b>Description</b></td>
+              <td><b>Value</b></td>
             </tr>
           </thead>
           <tbody>
@@ -190,9 +190,9 @@ publication:
         <table>
           <thead>
             <tr>
-              <th>Variable</th>
-              <th>Relative Impact</th>
-              <th>Critical Value Range for ASD Classification</th>
+              <td><b>Variable</b></td>
+              <td><b>Relative Impact</b></td>
+              <td><b>Critical Value Range for ASD Classification</b></td>
             </tr>
           </thead>
           <tbody>
