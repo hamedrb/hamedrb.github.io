@@ -155,17 +155,6 @@ publication:
           <b>Trained ASD classifier:</b><br>
           The primary outcome of the project is a trained classifier, which serves as the core component of the Pelargos medical device. Regarding our training strategy, aimed at maintaining the false positive rate below 5% while maximizing sensitivity, the performance of the classifier, measured by a CV technique, is summerized in the table below:
         </p>
-        <style>
-          table {
-            border-collapse: collapse; /* Ensures borders do not double up */
-            width: 100%;
-          }
-          th, td {
-            border: 1px solid black; /* Border for individual cells */
-            padding: 8px;
-            text-align: left;
-          }
-        </style>
         <table>
           <thead>
             <tr>
