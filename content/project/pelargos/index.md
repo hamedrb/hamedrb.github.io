@@ -255,7 +255,7 @@ publication:
       <div class="title">Perspective</div>
     </div>
     <div class="description">
-        Perspective Perspective Perspective Perspective Perspective
+      With the proof-of-concept phase successfully completed, Pelargos is now advancing toward market readiness. To achieve this, we are **partnering with leading maternity hospitals across France** to expand our database, refine the classification model with a larger and more diverse cohort, and **enhance** the test’s sensitivity**. The next step will involve transitioning to the **validation phase**, where the classifier will be rigorously tested on external datasets. This critical phase aims to confirm the test’s reliability and generalizability, ensuring its effectiveness for future real-world applications.
     </div>
   </div>
 </div>
