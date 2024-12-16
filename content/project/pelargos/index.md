@@ -230,20 +230,20 @@ publication:
       <div class="title">Innovation</div>
     </div>
     <div class="description">
-      <ul>
-        <li>
-          <img src="assets/media/icons/ai-icon.png" alt="Icon 1" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
-          World First
-        </li>
-        <li>
-          <img src="assets/media/icons/ai-icon.png" alt="Icon 2" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
-          Cutting-Edge Technology
-        </li>
-        <li>
-          <img src="assets/media/icons/ai-icon.png" alt="Icon 3" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
-          Industry Leader
-        </li>
-      </ul>
+      <b>World’s First Breakthrough</b><br>
+      Pelargos is the first-ever medical test capable of identifying ASD right after birth. Unlike existing tests in research phase, which can only be performed at least six months after birth, Pelargos empowers parents and healthcare providers by offering a critical head start. By identifying newborns at risk, Pelargos unlocks a vital six-month advantage during the peak neuroplasticity period (ages 2–3), enabling early interventions that can significantly impact a child's development trajectory.
+      <p>
+        <b>Ethical Assurance</b><br>
+        We fully understand the anxiety and stress that a false identification of ASD in a newborn can cause for parents. To address this critical concern, and in alignment with ethical principles, our classifier model has been meticulously designed to minimize the false positive rate to below 5%, while simultaneously maximizing the true positive rate. This ensures that the tool is both accurate and responsible, prioritizing the well-being of families while striving for effective early detection.
+      </p>
+      <p>
+        <b>Non-invasive Detection</b><br>
+        At the core of Pelargos is an advanced AI-driven method that assesses ASD risk without the need for invasive procedures. By analyzing routine biological and ultrasound data collected during pregnancy and shortly after birth, Pelargos ensures a safe, stress-free, and reliable approach to early detection.
+      </p>
+      <p>
+        <b>Affordable</b><br>
+        Pelargos leverages existing clinical data routinely collected during pregnancy and after birth, eliminating the need for additional medical procedures. This innovative approach ensures accessibility and affordability, making early ASD detection feasible for families worldwide.
+      </p>
     </div>
   </div>
 </div>
