@@ -256,45 +256,27 @@ publication:
     </div>
     <div class="description">
       With the proof-of-concept phase successfully completed, Pelargos is now advancing toward market readiness. To achieve this, we are <b>partnering with leading maternity hospitals across France</b> to expand our database, refine the classification model with a larger and more diverse cohort, and <b>enhance the test’s sensitivity</b>. The next step will involve transitioning to the <b>validation phase</b> where the classifier will be rigorously tested on external datasets. This critical phase aims to confirm the test’s reliability and generalizability, ensuring its effectiveness for future real-world applications.
-      <table style="border-collapse: collapse; width: 100%; margin: 20px 0; text-align: left;">
-        <thead>
-          <tr style="border-bottom: 2px solid #ccc;">
-            <th style="padding: 10px; border-right: 1px solid #ccc;">Status</th>
-            <th style="padding: 10px; border-right: 1px solid #ccc;">Phase</th>
-            <th style="padding: 10px; border-right: 1px solid #ccc;">Goals and Achievements</th>
-            <th style="padding: 10px;">Works Completed/Underway</th>
-          </tr>
-        </thead>
+      <table>
         <tbody>
           <tr>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">✅ Done</td>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">Proof-of-Concept</td>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">
-              Demonstrated the feasibility of using AI for ASD detection based on perinatal data.
-            </td>
-            <td style="padding: 10px;">
-              Built and tested an initial classifier on a cohort of 63 ASD and 189 neurotypical children.
-            </td>
+            <td><b>Phase</b></td>
+            <td><b>Goals & Achievements</b></td>
+            <td><b>Works Completed/Underway</b></td>
           </tr>
           <tr>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">⏳ In Progress</td>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">Development</td>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">
-              Expand the database, improve sensitivity, and fine-tune the classifier with diverse datasets.
-            </td>
-            <td style="padding: 10px;">
-              Collaborating with leading maternity hospitals in France to collect more comprehensive data.
-            </td>
+            <td>✅ Proof-of-Concept</td>
+            <td>Demonstrated the feasibility of using AI for ASD detection based on perinatal data.</td>
+            <td>Built and tested an initial classifier on a cohort of 63 ASD and 189 neurotypical children.</td>
           </tr>
           <tr>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">🔜 Planned</td>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">Validation</td>
-            <td style="padding: 10px; border-right: 1px solid #ccc;">
-              Validate the classifier's generalizability on external datasets to prepare for market entry.
-            </td>
-            <td style="padding: 10px;">
-              Test classifier with unseen data and assess its real-world performance.
-            </td>
+            <td>⏳ Development</td>
+            <td>Expand the database, improve sensitivity, and fine-tune the classifier with diverse datasets.</td>
+            <td>Collaborating with leading maternity hospitals in France to collect more comprehensive data.</td>
+          </tr>
+          <tr>
+            <td>🔜 Validation</td>
+            <td>Validate the classifier's generalizability on external datasets to prepare for market entry.</td>
+            <td>Test classifier with unseen data and assess its real-world performance.</td>
           </tr>
         </tbody>
       </table>
