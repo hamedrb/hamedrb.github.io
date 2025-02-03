@@ -48,12 +48,90 @@ image:
 #   - example
 ---
 
-{{% callout note %}}
-The project has passed successfully the proof-of-concept phase ans is actually in phase 1.
-{{% /callout %}}
 
-Pelargos blablabla:
+<div class="info-box overview">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">📝</div>
+      <div class="title">Overview</div>
+    </div>
+    <div class="description">
+    </div>
+  </div>
+</div>
 
-- **What:** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Why:** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **How:** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+<div class="info-box tools">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🛠️</div>
+      <div class="title">Tech Stack</div>
+    </div>
+    <div class="description">
+    </div>
+  </div>
+</div>
+
+<div class="info-box challenge">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔒</div>
+      <div class="title">Challenge</div>
+    </div>
+    <div class="description">
+    </div>
+  </div>
+</div>
+
+<div class="info-box approach">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔑</div>
+      <div class="title">Approach</div>
+    </div>
+    <div class="description">
+        <b>Rationale:</b><br>
+        <p>
+        <b>Population:</b><br>
+        </p>
+        <p>
+        <b>Classification:</b><br>
+        </p>
+        <p>
+        <b>Statistical tests and modelling:</b><br>
+        </p>
+    </div>
+  </div>
+</div>
+
+<div class="info-box impact">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🌟</div>
+      <div class="title">Impact</div>
+    </div>
+    <div class="description">
+    </div>
+  </div>
+</div>
+
+<div class="info-box innovation">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">💡</div>
+      <div class="title">Innovation</div>
+    </div>
+    <div class="description">
+    </div>
+  </div>
+</div>
+
+<div class="info-box perspective">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔭</div>
+      <div class="title">Perspective</div>
+    </div>
+    <div class="description">
+    </div>
+  </div>
+</div>
