@@ -86,15 +86,24 @@ publication:
       <div class="title">Tech Stack</div>
     </div>
     <div class="description">
-        **Python libraries:**
-          - XGBoost
-          - SHAP
-          - scikit-learn
-          - Pandas
-          - NumPy
-          - SciPy
-          - statsmodels
-          - Matplotlib
+        <b>Python libraries:</b>
+        <ul class="two-column-list">
+            <li>XGBoost</li>
+            <li>SHAP</li>
+            <li>scikit-learn</li>
+            <li>Pandas</li>
+            <li>NumPy</li>
+            <li>SciPy</li>
+            <li>statsmodels</li>
+            <li>Matplotlib</li>
+        </ul>
+        <style>
+          .two-column-list {
+            columns: 2; /* Creates two columns */
+            -webkit-columns: 2;
+            -moz-columns: 2;
+          }
+        </style>
     </div>
   </div>
 </div>
