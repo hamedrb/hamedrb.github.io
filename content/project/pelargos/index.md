@@ -102,6 +102,13 @@ publication:
             columns: 2; /* Creates two columns */
             -webkit-columns: 2;
             -moz-columns: 2;
+            list-style-position: inside; /* Ensures list bullets align */
+            padding-left: 0;
+          }
+
+          .two-column-list li {
+            display: inline-block;
+            width: 100%;
           }
         </style>
     </div>
