@@ -1,16 +1,20 @@
 ---
-title: 'Identification of subpolations who respond to Bumetanide as a treatment of ASD'
+title: 'Turning Failure into Discovery: Identifying Responders to Bumetanide for ASD Treatment'
 
 date: 2024-11-20
 
-summary: Blablablabla
+summary: Re-analyzing data from a failed Phase III clinical trial offers valuable, data-driven insights into the potential benefits of Bumetanide for a specific subpopulation of individuals with ASD.
 
 authors:
   - admin
 
 tags:
-  - AI
+  - AI in Medicine
+  - AI in Autism Research
+  - Machine Learning in Healthcare
+  - Phase III Clinical Trials
   - ASD
+  - Failed Trials Insights
   - Precision medicine
   - Bumetanide
   - ASD Treatment
