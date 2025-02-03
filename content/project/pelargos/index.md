@@ -13,7 +13,6 @@ tags:
   - Data mining
   - Classification
   - ASD
-  - Autism
   - Medicine
 
 # Is this a featured project? (true/false)
