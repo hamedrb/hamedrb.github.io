@@ -86,7 +86,15 @@ publication:
       <div class="title">Tech Stack</div>
     </div>
     <div class="description">
-        Tech Tech Tech Tech Tech
+        Python libraries:
+        - XGBoost
+        - SHAP
+        - scikit-learn
+        - Pandas
+        - NumPy
+        - SciPy
+        - statsmodels
+        - Matplotlib
     </div>
   </div>
 </div>
