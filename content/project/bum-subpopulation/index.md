@@ -74,6 +74,26 @@ image:
       <div class="title">Tech Stack</div>
     </div>
     <div class="description">
+    <b>Python libraries:</b>
+        <ul class="two-column-list">
+            <li>statsmodels</li>
+            <li>Pandas</li>
+            <li>NumPy</li>
+            <li>SciPy</li>
+        </ul>
+        <style>
+          .two-column-list {
+            columns: 2; /* Creates two columns */
+            -webkit-columns: 2;
+            -moz-columns: 2;
+            list-style-position: inside; /* Ensures list bullets align */
+            padding-left: 0;
+          }
+          .two-column-list li {
+            display: inline-block;
+            width: 100%;
+          }
+        </style>
     </div>
   </div>
 </div>
