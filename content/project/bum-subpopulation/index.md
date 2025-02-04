@@ -62,7 +62,7 @@ image:
     </div>
     <div class="description">
     Bumetanide, a promising candidate for autism spectrum disorder (ASD) treatment, has been evaluated in two phase III clinical trials to assess its efficacy and safety. These trials were international, multicenter, randomized, double-blind, and placebo-controlled studies involving approximately 50 centers across 13 countries. The studies targeted two distinct age groups: children and adolescents aged 7 to 17 years (Study 1) and younger children aged 2 to 6 years (Study 2). Participants received either Bumetanide oral liquid formulation or a placebo twice daily (BID) over a six-month period. Despite strong prior evidence from phase II trials indicating potential benefits, the phase III trials did not meet success criteria. However, clinicians observed that Bumetanide was effective in a subset of patients. This project aims to identify responder subpopulations using baseline clinical parameters and advanced machine learning (ML) techniques to refine patient selection criteria for future trials.
-    {{< figure src="subgroup_disco.png" alt="Figure: What is this project about?" >}}
+    {{< figure src="subgroup_discovery.png" alt="Figure: Subgroup discovery" >}}
     </div>
   </div>
 </div>
