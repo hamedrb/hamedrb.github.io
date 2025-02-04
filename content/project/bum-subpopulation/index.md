@@ -107,6 +107,7 @@ url_video: 'https://www.youtube.com/watch?v=TmTtyfquec0'
     <div class="description">
     ASD is a complex neurodevelopmental disorder affecting approximately 67 million individuals worldwide, with a rising global prevalence of around 2%. It is characterized by persistent deficits in communication, social interaction, and restricted, repetitive behaviors.<br>
     Despite extensive research efforts and substantial financial investment, effective pharmacological treatments for ASD remain limited. Bumetanide has shown promise in 9 double-blind, randomized phase II clinical trials involving over 1,000 children worldwide, yet it failed to meet phase III success criteria. The heterogeneity of ASD may have played a critical role in this failure, necessitating a personalized treatment approach to identify individuals who are most likely to benefit from the therapy.
+    {{< figure src="ASD_challenge.png" alt="Figure: ASD challenge" >}}
     </div>
   </div>
 </div>

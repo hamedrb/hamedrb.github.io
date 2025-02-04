@@ -36,7 +36,7 @@ profiles:
   - icon: brands/x
     url: https://x.com/hamed_rabiei
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hamedrb
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hamed-rabiei
   - icon: academicons/google-scholar
