@@ -74,7 +74,6 @@ url_video: 'https://www.youtube.com/watch?v=TmTtyfquec0'
         allowfullscreen>
       </iframe>
     </div>
-    {{< figure src="subgroup_discovery.png" alt="Figure: Subgroup discovery" >}}
     </div>
   </div>
 </div>
@@ -141,6 +140,7 @@ url_video: 'https://www.youtube.com/watch?v=TmTtyfquec0'
         <b>Methods:</b><br>
         Using advanced ML algorithms, we analyzed baseline clinical parameters to uncover patterns associated with treatment response. This data-driven approach enabled us to stratify ASD patients into subpopulations with higher likelihoods of benefiting from Bumetanide treatment. By integrating various clinical and demographic factors, we aimed to establish robust and generalizable predictive models for ASD treatment response.
         </p>
+        {{< figure src="subgroup_discovery.png" alt="Figure: Subgroup discovery" >}}
     </div>
   </div>
 </div>
