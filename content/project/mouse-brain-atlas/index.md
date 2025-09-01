@@ -57,10 +57,110 @@ url_pdf: 'https://pdf.sciencedirectassets.com/272508/1-s2.0-S1053811922X0013X/1-
 The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.com/ressources/).
 {{% /callout %}}
 
-Pelargos blablabla:
 
-- **What:** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Why:** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **How:** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+<div class="info-box overview">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">📝</div>
+      <div class="title">Overview</div>
+    </div>
+    <div class="description">
+        description ...
+    </div>
+  </div>
+</div>
 
-{{< figure src="example-image.jpg" title="Beautiful Landscape" alt="A breathtaking view" >}}
+<div class="info-box tools">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🛠️</div>
+      <div class="title">Tech Stack</div>
+    </div>
+    <div class="description">
+        <b>Python libraries:</b>
+        <ul class="two-column-list">
+            <li>Pack1</li>
+            <li>Pack1</li>
+            <li>Pack1</li>
+            <li>Pack1</li>
+            <li>Pack1</li>
+            <li>Pack1</li>
+            <li>Pack1</li>
+            <li>Pack1</li>
+        </ul>
+        <style>
+          .two-column-list {
+            columns: 2; /* Creates two columns */
+            -webkit-columns: 2;
+            -moz-columns: 2;
+            list-style-position: inside; /* Ensures list bullets align */
+            padding-left: 0;
+          }
+          .two-column-list li {
+            display: inline-block;
+            width: 100%;
+          }
+        </style>
+    </div>
+  </div>
+</div>
+
+<div class="info-box challenge">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔒</div>
+      <div class="title">Challenge</div>
+    </div>
+    <div class="description">
+        description ...
+    </div>
+  </div>
+</div>
+
+<div class="info-box approach">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔑</div>
+      <div class="title">Approach</div>
+    </div>
+    <div class="description">
+       description ...
+    </div>
+  </div>
+</div>
+
+<div class="info-box impact">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🌟</div>
+      <div class="title">Impact</div>
+    </div>
+    <div class="description">
+          description ...
+    </div>
+  </div>
+</div>
+
+<div class="info-box innovation">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">💡</div>
+      <div class="title">Innovation</div>
+    </div>
+    <div class="description">
+     description ...
+    </div>
+  </div>
+</div>
+
+<div class="info-box perspective">
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">🔭</div>
+      <div class="title">Perspective</div>
+    </div>
+    <div class="description">
+      description ...
+    </div>
+  </div>
+</div>
