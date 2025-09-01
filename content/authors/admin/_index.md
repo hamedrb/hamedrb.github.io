@@ -95,7 +95,7 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Conception of Analysis Methods
+      - Conception of Data Analysis Pipelines
       - Deployment and Integration of Solutions
       - Collaborating Across Teams
       - Documentation and Reporting
