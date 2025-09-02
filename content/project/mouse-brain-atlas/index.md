@@ -140,6 +140,8 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
           <li>Generated population-averaged 3D templates at each developmental stage.</li>
           <li>Ensured consistent spatial normalization across datasets for reliable cross-stage comparison.</li>
         </ul>
+        {{< figure src="Registration_process.png" alt="Figure: Registration process" >}}
+        <i>Registration process: from a group of raw autofluorescence images to an average template.</i>
     </div>
   </div>
 </div>
