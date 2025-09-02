@@ -92,7 +92,7 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
             <li>Elastix toolbox</li>
             <li>Python packages: SimpleITK, tifffile, NumPy, SciPy</li>
         </ul>
-        iBen atlas has been produced by following a multiresolution and iterative registration process of autofluorescence images. The complete pipeline is available on the <a href="https://github.com/iBen-foundation/iBen-atlas" target="_blank"><strong>IBen GitHub repository</strong></a>.
+        iBen atlas has been produced by following a multiresolution and iterative registration process of autofluorescence images. The complete pipeline is available on the <a href="https://github.com/iBen-foundation/iBen-atlas" target="_blank" style="color: blue;"><strong>IBen GitHub repository</strong></a>.
         <style>
           .two-column-list {
             columns: 2; /* Creates two columns */
