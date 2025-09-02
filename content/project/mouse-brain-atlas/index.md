@@ -87,14 +87,12 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
             <li><b>Data format & visualization:</b> 3D volumetric images with alignment to common coordinate space</li>
         </ul>
         <b>Tools:</b>
-        <ul class="two-column-list">
-            <li>Elastix toolbox</li>
-            <li>ImageJ</li>
-        </ul>
         <ul>
-          <li>Python packages: SimpleITK, tifffile, NumPy, SciPy</li>
+            <li>ImageJ</li>
+            <li>Elastix toolbox</li>
+            <li>Python packages: SimpleITK, tifffile, NumPy, SciPy</li>
         </ul>
-        iBen atlas has been produced by following a multiresolution and iterative registration process of autofluorescence images. The complete pipeline is available on the [**IBen github repository**](https://github.com/iBen-foundation/iBen-atlas).
+        iBen atlas has been produced by following a multiresolution and iterative registration process of autofluorescence images. The complete pipeline is available on the <a href="https://github.com/iBen-foundation/iBen-atlas" target="_blank"><strong>IBen GitHub repository</strong></a>.
         <style>
           .two-column-list {
             columns: 2; /* Creates two columns */
