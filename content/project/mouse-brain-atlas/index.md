@@ -86,17 +86,15 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
             <li><b>Atlas generation:</b> multi-resolution groupwise registration to create unbiased average templates</li>
             <li><b>Data format & visualization:</b> 3D volumetric images with alignment to common coordinate space</li>
         </ul>
-        <b>Python libraries:</b>
+        <b>Tools:</b>
         <ul class="two-column-list">
-            <li>Pack1</li>
-            <li>Pack1</li>
-            <li>Pack1</li>
-            <li>Pack1</li>
-            <li>Pack1</li>
-            <li>Pack1</li>
-            <li>Pack1</li>
-            <li>Pack1</li>
+            <li>Elastix toolbox</li>
+            <li>ImageJ</li>
         </ul>
+        <ul>
+          <li>Python packages: SimpleITK, tifffile, NumPy, SciPy</li>
+        </ul>
+        iBen atlas has been produced by following a multiresolution and iterative registration process of autofluorescence images. The complete pipeline is available on the [**IBen github repository**](https://github.com/iBen-foundation/iBen-atlas).
         <style>
           .two-column-list {
             columns: 2; /* Creates two columns */
