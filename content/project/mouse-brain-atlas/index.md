@@ -54,7 +54,7 @@ url_pdf: 'https://pdf.sciencedirectassets.com/272508/1-s2.0-S1053811922X0013X/1-
 ---
 
 {{% callout note %}}
-The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.com/ressources/).
+The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.com/projects/iben-atlas/).
 {{% /callout %}}
 
 
@@ -65,7 +65,7 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
       <div class="title">Overview</div>
     </div>
     <div class="description">
-        description ...
+        This project developed a high-resolution 3D atlas of cholinergic and catecholaminergic systems in the mouse brain spanning embryonic to postnatal stages. My contribution focused on the atlas creation pipeline, which involved building population-averaged brain templates using advanced image processing and registration methods.
     </div>
   </div>
 </div>
@@ -77,6 +77,12 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
       <div class="title">Tech Stack</div>
     </div>
     <div class="description">
+        <ul>
+            <li><b>Image preprocessing:</b> intensity normalization, noise reduction, resampling</li>
+            <li><b>Registration framework:</b> Elastix toolbox for rigid, affine, and non-linear transformations</li>
+            <li><b>Atlas generation:</b> multi-resolution groupwise registration to create unbiased average templates</li>
+            <li><b>Data format & visualization:</b> 3D volumetric images with alignment to common coordinate space</li>
+        </ul>
         <b>Python libraries:</b>
         <ul class="two-column-list">
             <li>Pack1</li>
@@ -112,7 +118,12 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
       <div class="title">Challenge</div>
     </div>
     <div class="description">
-        description ...
+        Brain imaging data at different developmental stages suffer from:
+        <ul>
+          <li>High variability in size and morphology</li>
+          <li>Differences in contrast and resolution across modalities</li>
+          <li>Need for unbiased group averages rather than biased single references</li>
+        </ul>
     </div>
   </div>
 </div>
@@ -124,7 +135,12 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
       <div class="title">Approach</div>
     </div>
     <div class="description">
-       description ...
+        <ul>
+          <li>Designed a multi-step registration pipeline (rigid → affine → B-spline non-linear).</li>
+          <li>Used groupwise registration to avoid bias toward a single specimen.</li>
+          <li>Generated population-averaged 3D templates at each developmental stage.</li>
+          <li>Ensured consistent spatial normalization across datasets for reliable cross-stage comparison.</li>
+        </ul>
     </div>
   </div>
 </div>
@@ -136,7 +152,7 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
       <div class="title">Impact</div>
     </div>
     <div class="description">
-          description ...
+          The resulting reference brain atlas provides a standardized coordinate framework, enabling researchers to align, compare, and analyze developmental brain images. This has accelerated data integration across labs and facilitated new insights into brain development.
     </div>
   </div>
 </div>
@@ -148,7 +164,11 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
       <div class="title">Innovation</div>
     </div>
     <div class="description">
-     description ...
+        <ul>
+          <li> Implemented a bias-free groupwise registration strategy, avoiding reliance on one reference brain.</li>
+          <li> Combined rigid, affine, and non-linear B-spline transformations into a robust pipeline for developmental data.</li>
+          <li> Delivered the first consistent 3D developmental atlas for these neurotransmitter systems.</li>
+        </ul>
     </div>
   </div>
 </div>
@@ -160,7 +180,7 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
       <div class="title">Perspective</div>
     </div>
     <div class="description">
-      description ...
+      This work highlights how image processing and registration methods can transform heterogeneous imaging datasets into powerful population-level resources. The pipeline can be extended to other brain systems or species, advancing the reproducibility and accessibility of neuroscience research.
     </div>
   </div>
 </div>
