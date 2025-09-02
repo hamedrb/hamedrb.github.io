@@ -68,6 +68,7 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
     <div class="description">
         This project developed a high-resolution 3D atlas of cholinergic and catecholaminergic systems in the mouse brain spanning embryonic to postnatal stages. My contribution focused on the atlas creation pipeline, which involved building population-averaged brain templates using advanced image processing and registration methods.
         {{< figure src="average-template.jpeg" alt="Figure: What is IBen atlas?" >}}
+        <i>Brain average template of ChAT and TH brain structures across development. Generation of a brain template based on the Light Sheet Fluorescence Microscopy (LSFM) fluorescence volume using an iterative registration and average processing.</i>
     </div>
   </div>
 </div>
