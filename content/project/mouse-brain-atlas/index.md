@@ -1,9 +1,10 @@
 ---
-title: 'IBEN Atlas: 3D Atlas of the Developing Mouse Brain'
+title: 'IBEN Atlas: 3D Templates of the Developing Mouse Brain'
 
 date: 2024-11-21
 
-summary: Blablablabla
+summary: The first 3D atlases of the main cholinergic and catecholaminergic systems in the mouse brain from embryonic day 12 (E12) to post-natal day 8 (P8)
+
 
 authors:
   - admin
@@ -15,7 +16,7 @@ tags:
   - Lightsheet imaging
   - Mouse
   - Brain
-  - Atlas
+  - 3D quantitative atlas
 
 
 # Is this a featured project? (true/false)
