@@ -59,6 +59,7 @@ summary: We retrospectively analyzed routine ultrasound and biological measureme
 
 tags:
 - Autism spectrum disorders
+- ASD
 - Clinical data analysis
 - Data mining
 - Machine learning
@@ -70,14 +71,16 @@ tags:
 featured: true
 
 links:
-- name: Publication
-  url: https://www.nature.com/articles/s41598-021-86320-0
+ - name: Project
+   url: 'https://hamedrb.github.io/project/pelargos/'
+# - name: Publication
+#   url: https://www.nature.com/articles/s41598-021-86320-0
 
 url_pdf: 'https://www.nature.com/articles/s41598-021-86320-0.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
-url_project: 'https://www.babiomedical.com/projects/pelargos/'
+# url_project: 'https://www.babiomedical.com/projects/pelargos/'
 url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
