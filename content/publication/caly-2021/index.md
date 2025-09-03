@@ -55,13 +55,16 @@ abstract: 'To identify newborns at risk of developing ASD and to detect ASD biom
   to attenuate efficiently ASD developmental sequels.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We retrospectively analyzed routine ultrasound and biological measurements collected during pregnancy and at birth from babies later diagnosed with ASD or identified as neurotypical, aiming to detect early biomarkers and identify newborns at risk.
 
 tags:
 - Autism spectrum disorders
+- Clinical data analysis
 - Data mining
 - Machine learning
-- Statistical methods
+- AI
+- Classification
+- Statistical models
 
 # Display this page in the Featured widget?
 featured: true
@@ -70,7 +73,7 @@ links:
 - name: URL
   url: https://www.nature.com/articles/s41598-021-86320-0
 
-url_pdf: ''
+url_pdf: 'https://www.nature.com/articles/s41598-021-86320-0.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
@@ -82,7 +85,7 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**B&A Biomedical**](https://www.babiomedical.com/en/)'
   focal_point: ''
   preview_only: false
 ---
