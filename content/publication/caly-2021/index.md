@@ -74,7 +74,7 @@ links:
  - name: Project
    url: 'https://hamedrb.github.io/project/pelargos/'
  - name: Collaboration
-   url: https://www.babiomedical.com/projects/pelargos/
+   url: 'https://www.babiomedical.com/projects/pelargos/'
 
 url_pdf: 'https://www.nature.com/articles/s41598-021-86320-0.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
