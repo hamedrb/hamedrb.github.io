@@ -71,7 +71,7 @@ publication:
 ---
 
 {{% callout note %}}
-The atlas is available on [_B&A Biomedical website_](https://www.babiomedical.com/projects/iben-atlas/).
+Open to new collaborations for next phases of Pelargos, we invite you to connect with our team at [_B&A Biomedical_](https://www.babiomedical.com/projects/pelargos/#contact) to discuss the different phases of our project in more detail and perhaps join us in the Pelargos adventure.
 {{% /callout %}}
 
 
