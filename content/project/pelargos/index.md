@@ -9,6 +9,7 @@ authors:
   - admin
 
 tags:
+  - Pelargos
   - AI
   - Data mining
   - Classification

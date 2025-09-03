@@ -58,6 +58,7 @@ abstract: 'To identify newborns at risk of developing ASD and to detect ASD biom
 summary: We retrospectively analyzed routine ultrasound and biological measurements collected during pregnancy and at birth from babies later diagnosed with ASD or identified as neurotypical, aiming to detect early biomarkers and identify newborns at risk.
 
 tags:
+- Pelargos
 - Autism spectrum disorders
 - ASD
 - Clinical data analysis
