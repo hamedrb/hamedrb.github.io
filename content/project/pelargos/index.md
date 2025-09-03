@@ -66,6 +66,10 @@ publication:
 # {{< figure src="XGBoost_logo.png" alt="Figure: XGBoost logo" >}}
 ---
 
+{{% callout note %}}
+Open to new collaborations for next phases of Pelargos, we invite you to connect with our team at [**B&A Biomedical**](https://www.babiomedical.com/projects/pelargos/#contact) to discuss the different phases of our project in more detail and perhaps join us in the Pelargos adventure.
+{{% /callout %}}
+
 <div class="info-box overview">
   <div class="content">
     <div class="title-container">
