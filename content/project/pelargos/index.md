@@ -64,13 +64,12 @@ publication:
 
 # List of tools and packages used: Python, pandas, XGBoost, etc.
 # {{< figure src="XGBoost_logo.png" alt="Figure: XGBoost logo" >}}
-
-# [**B&A Biomedical**](https://www.babiomedical.com/projects/pelargos/#contact)
 ---
 
 {{% callout note %}}
-Open to new collaborations for next phases of Pelargos, we invite you to connect with our team at B&A Biomedical to discuss the different phases of our project in more detail and perhaps join us in the Pelargos adventure.
+Open to new collaborations for next phases of Pelargos, we invite you to connect with our team at [_B&A Biomedical_](https://www.babiomedical.com/projects/pelargos/#contact) to discuss the different phases of our project in more detail and perhaps join us in the Pelargos adventure.
 {{% /callout %}}
+
 
 <div class="info-box overview">
   <div class="content">
