@@ -55,7 +55,7 @@ url_pdf: 'https://pdf.sciencedirectassets.com/272508/1-s2.0-S1053811922X0013X/1-
 ---
 
 {{% callout note %}}
-The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.com/projects/iben-atlas/).
+The atlas is available on [_B&A Biomedical website_](https://www.babiomedical.com/projects/iben-atlas/).
 {{% /callout %}}
 
 
@@ -189,7 +189,7 @@ The atlas is available in [_B&A Biomedical website_](https://www.babiomedical.co
       <div class="title">Perspective</div>
     </div>
     <div class="description">
-      This work highlights how image processing and registration methods can transform heterogeneous imaging datasets into powerful population-level resources. The pipeline can be extended to other brain systems or species, advancing the reproducibility and accessibility of neuroscience research.
+      This work highlights how image processing and registration methods can transform heterogeneous imaging datasets into powerful population-level resources. The pipeline can be extended to other brain systems or species, advancing the reproducibility and accessibility of neuroscience research. The complete pipeline is available on the <a href="https://github.com/iBen-foundation/iBen-atlas" target="_blank" style="color: blue;"><strong>IBen GitHub repository</strong></a>.
     </div>
   </div>
 </div>
