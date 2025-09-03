@@ -70,6 +70,11 @@ publication:
 # {{% /callout %}}
 ---
 
+{{% callout note %}}
+The atlas is available on [_B&A Biomedical website_](https://www.babiomedical.com/projects/iben-atlas/).
+{{% /callout %}}
+
+
 <div class="info-box overview">
   <div class="content">
     <div class="title-container">
