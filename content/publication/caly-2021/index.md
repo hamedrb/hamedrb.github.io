@@ -70,14 +70,14 @@ tags:
 featured: true
 
 links:
-- name: URL
+- name: Publication
   url: https://www.nature.com/articles/s41598-021-86320-0
 
 url_pdf: 'https://www.nature.com/articles/s41598-021-86320-0.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
-url_project: ''
+url_project: 'https://www.babiomedical.com/projects/pelargos/'
 url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
@@ -87,5 +87,13 @@ url_slides: ''
 image:
   caption: 'Image credit: [**B&A Biomedical**](https://www.babiomedical.com/en/)'
   focal_point: ''
-  preview_only: false
+  preview_only: true
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - pelargos
 ---
