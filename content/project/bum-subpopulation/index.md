@@ -27,7 +27,9 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Center
 
-# links:
+links:
+ - name: Publication
+   url: https://www.nature.com/articles/s41398-026-03848-3
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
