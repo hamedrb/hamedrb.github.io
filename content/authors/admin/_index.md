@@ -80,6 +80,7 @@ education:
       GPA: 15.73/20
       Courses included:
       - Calculus
+      - Statistics
       - Linear Algebra
       - Numerical Analysis
       - Operational Research and Optimization
