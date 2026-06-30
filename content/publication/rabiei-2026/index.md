@@ -36,9 +36,9 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# links:
-#  - name: Project
-#    url: 'https://hamedrb.github.io/project/pelargos/'
+links:
+ - name: Project
+   url: 'https://hamedrb.github.io/project/bum-subpopulation/'
 #  - name: Collaboration
 #    url: 'https://www.babiomedical.com/projects/pelargos/'
 
