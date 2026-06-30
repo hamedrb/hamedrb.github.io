@@ -9,14 +9,14 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: markdown
-    content:
-      title: '🚧 NOTICE: The site is under construction 🚧'
-      subtitle: ''
-      text: |-
-        The site is a work in progress, lovingly crafted during my scarce free time. Expect some info to be wonky—updates are coming... eventually! 😉
-    design:
-      columns: '1'
+  #- block: markdown
+  #  content:
+  #   title: '🚧 NOTICE: The site is under construction 🚧'
+  #    subtitle: ''
+  #    text: |-
+  #      The site is a work in progress, lovingly crafted during my scarce free time. Expect some info to be wonky—updates are coming... eventually! 😉
+  #  design:
+  #    columns: '1'
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
