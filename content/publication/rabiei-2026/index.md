@@ -1,5 +1,5 @@
 ---
-title: Treating autism with Bumetanide: Identification of responders using Q-Finder machine learning algorithm
+title: 'Treating autism with Bumetanide: Identification of responders using Q-Finder machine learning algorithm'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
