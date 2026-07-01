@@ -123,7 +123,7 @@ Open to new collaborations for next phases of Pelargos, we invite you to connect
         </div>
         <div class="tech-hex-card data-module">
           <div class="hex-icon">
-            <img src="assets/media/icons/pandas-icon.png" alt="Pandas logo" class="tech-logo-img">
+            <img src="media/icons/pandas-icon.png" alt="Pandas logo" class="tech-logo-img">
           </div>
           <div class="hex-info">
             <span class="tech-name">Pandas</span>
