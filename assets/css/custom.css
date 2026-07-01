@@ -225,4 +225,11 @@
   color: #94a3b8;
 }
 
-  /* ---------------------------------------------------------------- */
+.info-box.tools .hex-icon img.tech-logo-img {
+  width: 24px;         /* Keeps the image scale uniform with the other icons */
+  height: 24px;
+  object-fit: contain; /* Ensures the logo ratio doesn't distort or stretch */
+  display: block;
+}
+
+/* ---------------------------------------------------------------- */

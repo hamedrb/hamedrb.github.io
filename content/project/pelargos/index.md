@@ -94,11 +94,7 @@ Open to new collaborations for next phases of Pelargos, we invite you to connect
 <div class="info-box tools">
   <div class="content">
     <div class="title-container">
-      <div class="icon">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: #4ade80; vertical-align: middle;">
-          <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
-        </svg>
-      </div>
+      <div class="icon">🛠️</div>
       <div class="title" style="margin-left: 8px;">Tech Stack Architecture</div>
     </div>
     <div class="description">
@@ -126,7 +122,9 @@ Open to new collaborations for next phases of Pelargos, we invite you to connect
           </div>
         </div>
         <div class="tech-hex-card data-module">
-          <div class="hex-icon">📊</div>
+          <div class="hex-icon">
+            <img src="assets/media/icons/pandas_logo.png" alt="Pandas logo" class="tech-logo-img">
+          </div>
           <div class="hex-info">
             <span class="tech-name">Pandas</span>
             <span class="tech-meta">DataFrames & Cohorts</span>
