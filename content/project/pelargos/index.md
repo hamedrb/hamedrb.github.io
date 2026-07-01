@@ -162,12 +162,12 @@ Open to new collaborations for next phases of Pelargos, we invite you to connect
         </div>
       </div>
       <style>
-        .tech-subtitle {
+        <!-- .tech-subtitle {
           font-size: 0.95rem;
           color: #94a3b8;
           margin-bottom: 1.25rem;
           font-weight: 500;
-        }
+        } -->
         .hex-grid-container {
           display: grid;
           grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
