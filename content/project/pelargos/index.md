@@ -89,192 +89,149 @@ Open to new collaborations for next phases of Pelargos, we invite you to connect
   </div>
 </div>
 
-<!-- <div class="info-box tools">
-  <div class="content">
-    <div class="title-container">
-      <div class="icon">🛠️</div>
-      <div class="title">Tech Stack</div>
-    </div>
-    <div class="description">
-        <b>Python libraries:</b>
-        <ul class="two-column-list">
-            <li>XGBoost</li>
-            <li>SHAP</li>
-            <li>scikit-learn</li>
-            <li>Pandas</li>
-            <li>NumPy</li>
-            <li>SciPy</li>
-            <li>statsmodels</li>
-            <li>Matplotlib</li>
-        </ul>
-        <style>
-          .two-column-list {
-            columns: 2; /* Creates two columns */
-            -webkit-columns: 2;
-            -moz-columns: 2;
-            list-style-position: inside; /* Ensures list bullets align */
-            padding-left: 0;
-          }
-          .two-column-list li {
-            display: inline-block;
-            width: 100%;
-          }
-        </style>
-    </div>
-  </div>
-</div> -->
+
 
 <div class="info-box tools">
-<div class="content">
-<div class="title-container">
-<div class="icon">
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: #4ade80; vertical-align: middle;">
-<path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
-</svg>
-</div>
-<div class="title" style="margin-left: 8px;">Tech Stack Architecture</div>
-</div>
-<div class="description">
-<p class="tech-subtitle">Core Infrastructure & Statistical Computing Pipeline:</p>
-
-<div class="hex-grid-container">
-
-<div class="tech-hex-card ml-module">
-<div class="hex-icon">🌲</div>
-<div class="hex-info">
-<span class="tech-name">XGBoost</span>
-<span class="tech-meta">Gradient Boosting / Classifier</span>
-</div>
-</div>
-
-<div class="tech-hex-card ml-module">
-<div class="hex-icon">🧬</div>
-<div class="hex-info">
-<span class="tech-name">SHAP</span>
-<span class="tech-meta">Explainable AI / Biomarkers</span>
-</div>
-</div>
-
-<div class="tech-hex-card ml-module">
-<div class="hex-icon">🤖</div>
-<div class="hex-info">
-<span class="tech-name">scikit-learn</span>
-<span class="tech-meta">Pipeline & Hyperparameters</span>
-</div>
-</div>
-
-<div class="tech-hex-card data-module">
-<div class="hex-icon">📊</div>
-<div class="hex-info">
-<span class="tech-name">Pandas</span>
-<span class="tech-meta">DataFrames & Cohorts</span>
-</div>
-</div>
-
-<div class="tech-hex-card data-module">
-<div class="hex-icon">🔢</div>
-<div class="hex-info">
-<span class="tech-name">NumPy</span>
-<span class="tech-meta">Multivariate Matrices</span>
-</div>
-</div>
-
-<div class="tech-hex-card math-module">
-<div class="hex-icon">⨛</div>
-<div class="hex-info">
-<span class="tech-name">SciPy</span>
-<span class="tech-meta">Statistical Hypothesis</span>
-</div>
-</div>
-
-<div class="tech-hex-card math-module">
-<div class="hex-icon">📈</div>
-<div class="hex-info">
-<span class="tech-name">statsmodels</span>
-<span class="tech-meta">ANCOVA & Mixed-Effects</span>
-</div>
-</div>
-
-<div class="tech-hex-card math-module">
-<div class="hex-icon">📉</div>
-<div class="hex-info">
-<span class="tech-name">Matplotlib</span>
-<span class="tech-meta">Trajectory Visualization</span>
-</div>
-</div>
-
-</div>
-
-<style>
-.tech-subtitle {
-  font-size: 0.95rem;
-  color: #94a3b8;
-  margin-bottom: 1.25rem;
-  font-weight: 500;
-}
-.hex-grid-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 12px;
-  margin-top: 10px;
-}
-.tech-hex-card {
-  background: rgba(30, 41, 59, 0.4);
-  border: 1px solid rgba(255, 255, 255, 0.05);
-  border-radius: 10px;
-  padding: 12px 16px;
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  position: relative;
-  overflow: hidden;
-}
-.tech-hex-card::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; width: 4px; height: 100%;
-}
-.ml-module::before { background: #4ade80; }
-.data-module::before { background: #38bdf8; }
-.math-module::before { background: #a78bfa; }
-
-.tech-hex-card:hover {
-  transform: translateY(-2px);
-  background: rgba(30, 41, 59, 0.7);
-  box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.5);
-}
-.ml-module:hover { border-color: rgba(74, 222, 128, 0.4); }
-.data-module:hover { border-color: rgba(56, 189, 248, 0.4); }
-.math-module:hover { border-color: rgba(167, 139, 250, 0.4); }
-
-.hex-icon {
-  font-size: 1.4rem;
-  min-width: 32px;
-  height: 32px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: rgba(255, 255, 255, 0.03);
-  border-radius: 6px;
-}
-.hex-info {
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-}
-.tech-name {
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: #f8fafc;
-}
-.tech-meta {
-  font-size: 0.75rem;
-  color: #64748b;
-}
-</style>
-</div>
-</div>
+  <div class="content">
+    <div class="title-container">
+      <div class="icon">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: #4ade80; vertical-align: middle;">
+          <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+        </svg>
+      </div>
+      <div class="title" style="margin-left: 8px;">Tech Stack Architecture</div>
+    </div>
+    <div class="description">
+      <p class="tech-subtitle">Core Infrastructure & Statistical Computing Pipeline:</p>
+      <div class="hex-grid-container">
+        <div class="tech-hex-card ml-module">
+          <div class="hex-icon">🌲</div>
+          <div class="hex-info">
+            <span class="tech-name">XGBoost</span>
+            <span class="tech-meta">Gradient Boosting / Classifier</span>
+          </div>
+        </div>
+        <div class="tech-hex-card ml-module">
+          <div class="hex-icon">🧬</div>
+          <div class="hex-info">
+            <span class="tech-name">SHAP</span>
+            <span class="tech-meta">Explainable AI / Biomarkers</span>
+          </div>
+        </div>
+        <div class="tech-hex-card ml-module">
+          <div class="hex-icon">🤖</div>
+          <div class="hex-info">
+            <span class="tech-name">scikit-learn</span>
+            <span class="tech-meta">Pipeline & Hyperparameters</span>
+          </div>
+        </div>
+        <div class="tech-hex-card data-module">
+          <div class="hex-icon">📊</div>
+          <div class="hex-info">
+            <span class="tech-name">Pandas</span>
+            <span class="tech-meta">DataFrames & Cohorts</span>
+          </div>
+        </div>
+        <div class="tech-hex-card data-module">
+          <div class="hex-icon">🔢</div>
+          <div class="hex-info">
+            <span class="tech-name">NumPy</span>
+            <span class="tech-meta">Multivariate Matrices</span>
+          </div>
+        </div>
+        <div class="tech-hex-card math-module">
+          <div class="hex-icon">⨛</div>
+          <div class="hex-info">
+            <span class="tech-name">SciPy</span>
+            <span class="tech-meta">Statistical Hypothesis</span>
+          </div>
+        </div>
+        <div class="tech-hex-card math-module">
+          <div class="hex-icon">📈</div>
+          <div class="hex-info">
+            <span class="tech-name">statsmodels</span>
+            <span class="tech-meta">ANCOVA & Mixed-Effects</span>
+          </div>
+        </div>
+        <div class="tech-hex-card math-module">
+          <div class="hex-icon">📉</div>
+          <div class="hex-info">
+            <span class="tech-name">Matplotlib</span>
+            <span class="tech-meta">Trajectory Visualization</span>
+          </div>
+        </div>
+      </div>
+      <style>
+        .tech-subtitle {
+          font-size: 0.95rem;
+          color: #94a3b8;
+          margin-bottom: 1.25rem;
+          font-weight: 500;
+        }
+        .hex-grid-container {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+          gap: 12px;
+          margin-top: 10px;
+        }
+        .tech-hex-card {
+          background: rgba(30, 41, 59, 0.4);
+          border: 1px solid rgba(255, 255, 255, 0.05);
+          border-radius: 10px;
+          padding: 12px 16px;
+          display: flex;
+          align-items: center;
+          gap: 14px;
+          transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+          position: relative;
+          overflow: hidden;
+        }
+        .tech-hex-card::before {
+          content: '';
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 4px;
+          height: 100%;
+        }
+        .ml-module::before { background: #4ade80; }
+        .data-module::before { background: #38bdf8; }
+        .math-module::before { background: #a78bfa; }
+        .tech-hex-card:hover {
+          transform: translateY(-2px);
+          background: rgba(30, 41, 59, 0.7);
+          box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.5);
+        }
+        .ml-module:hover { border-color: rgba(74, 222, 128, 0.4); }
+        .data-module:hover { border-color: rgba(56, 189, 248, 0.4); }
+        .math-module:hover { border-color: rgba(167, 139, 250, 0.4); }
+        .hex-icon {
+          font-size: 1.4rem;
+          min-width: 32px;
+          height: 32px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background: rgba(255, 255, 255, 0.03);
+          border-radius: 6px;
+        }
+        .hex-info {
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
+        .tech-name {
+          font-weight: 600;
+          font-size: 0.95rem;
+          color: #f8fafc;
+        }
+        .tech-meta {
+          font-size: 0.75rem;
+          color: #64748b;
+        }
+      </style>
+    </div>
+  </div>
 </div>
 
 <div class="info-box challenge">
