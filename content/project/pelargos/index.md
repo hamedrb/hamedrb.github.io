@@ -108,14 +108,18 @@ Open to new collaborations for next phases of Pelargos, we invite you to connect
           </div>
         </div>
         <div class="tech-hex-card ml-module">
-          <div class="hex-icon">🧬</div>
+          <div class="hex-icon">
+            <img src="/media/icons/shap-icon.png" alt="Shap logo" class="tech-logo-img">
+          </div>
           <div class="hex-info">
             <span class="tech-name">SHAP</span>
             <span class="tech-meta">Explainable AI / Biomarkers</span>
           </div>
         </div>
         <div class="tech-hex-card ml-module">
-          <div class="hex-icon">🤖</div>
+          <div class="hex-icon">
+            <img src="/media/icons/scikit-learn-icon.svg" alt="Scikit-Learn logo" class="tech-logo-img">
+          </div>
           <div class="hex-info">
             <span class="tech-name">scikit-learn</span>
             <span class="tech-meta">Pipeline & Hyperparameters</span>
@@ -131,28 +135,36 @@ Open to new collaborations for next phases of Pelargos, we invite you to connect
           </div>
         </div>
         <div class="tech-hex-card data-module">
-          <div class="hex-icon">🔢</div>
+          <div class="hex-icon">
+            <img src="/media/icons/numpy-icon.png" alt="Numpy logo" class="tech-logo-img">
+          </div>
           <div class="hex-info">
             <span class="tech-name">NumPy</span>
             <span class="tech-meta">Multivariate Matrices</span>
           </div>
         </div>
         <div class="tech-hex-card math-module">
-          <div class="hex-icon">⨛</div>
+          <div class="hex-icon">
+            <img src="/media/icons/scipy-icon.svg" alt="Scipy logo" class="tech-logo-img">
+          </div>
           <div class="hex-info">
             <span class="tech-name">SciPy</span>
             <span class="tech-meta">Statistical Hypothesis</span>
           </div>
         </div>
         <div class="tech-hex-card math-module">
-          <div class="hex-icon">📈</div>
+          <div class="hex-icon">
+            <img src="/media/icons/statsmodels-icon.svg" alt="Statsmodels logo" class="tech-logo-img">
+          </div>
           <div class="hex-info">
             <span class="tech-name">statsmodels</span>
             <span class="tech-meta">ANCOVA & Mixed-Effects</span>
           </div>
         </div>
         <div class="tech-hex-card math-module">
-          <div class="hex-icon">📉</div>
+          <div class="hex-icon">
+            <img src="/media/icons/matplotlib-icon.png" alt="Matplotlib logo" class="tech-logo-img">
+          </div>
           <div class="hex-info">
             <span class="tech-name">Matplotlib</span>
             <span class="tech-meta">Trajectory Visualization</span>
