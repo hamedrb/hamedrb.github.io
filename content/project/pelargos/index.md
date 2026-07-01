@@ -161,78 +161,11 @@ Open to new collaborations for next phases of Pelargos, we invite you to connect
           </div>
         </div>
       </div>
-      <style>
-        <!-- .tech-subtitle {
-          font-size: 0.95rem;
-          color: #94a3b8;
-          margin-bottom: 1.25rem;
-          font-weight: 500;
-        } -->
-        .hex-grid-container {
-          display: grid;
-          grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-          gap: 12px;
-          margin-top: 10px;
-        }
-        .tech-hex-card {
-          background: rgba(30, 41, 59, 0.4);
-          border: 1px solid rgba(255, 255, 255, 0.05);
-          border-radius: 10px;
-          padding: 12px 16px;
-          display: flex;
-          align-items: center;
-          gap: 14px;
-          transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-          position: relative;
-          overflow: hidden;
-        }
-        .tech-hex-card::before {
-          content: '';
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 4px;
-          height: 100%;
-        }
-        .ml-module::before { background: #4ade80; }
-        .data-module::before { background: #38bdf8; }
-        .math-module::before { background: #a78bfa; }
-        .tech-hex-card:hover {
-          transform: translateY(-2px);
-          background: rgba(30, 41, 59, 0.7);
-          box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.5);
-        }
-        .ml-module:hover { border-color: rgba(74, 222, 128, 0.4); }
-        .data-module:hover { border-color: rgba(56, 189, 248, 0.4); }
-        .math-module:hover { border-color: rgba(167, 139, 250, 0.4); }
-        .hex-icon {
-          font-size: 1.4rem;
-          min-width: 32px;
-          height: 32px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          background: rgba(255, 255, 255, 0.03);
-          border-radius: 6px;
-        }
-        .hex-info {
-          display: flex;
-          flex-direction: column;
-          gap: 2px;
-        }
-        .tech-name {
-          font-weight: 600;
-          font-size: 0.95rem;
-          color: #f8fafc;
-        }
-        .tech-meta {
-          font-size: 0.75rem;
-          color: #64748b;
-        }
-      </style>
     </div>
   </div>
 </div>
+
+
 
 <div class="info-box challenge">
   <div class="content">
